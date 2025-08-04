@@ -1,8 +1,24 @@
-
 MSH|^~\&|Device1|Ward1|EMR|Main|202508031010||ORU^R01|MSG00001|P|2.3
+# MSH: Message Header - metadata about the message (sending/receiving apps, timestamp, message type, version)
+  
 PID|||123456||DOE^JOHN||19700101|M
-OBR|1||1234^Lab|DIA001^DIALYSIS^L
-OBX|1|NM|BP^Blood Pressure||145|mmHg
-OBX|2|NM|TMP^Temperature||36.8|C
-OBX|3|NM|HCT^Hematocrit||41|%
+# PID: Patient Identification
+# PHI/PII: Patient ID, Patient Name, Date of Birth, Gender
 
+# Additional PID details example:
+# PID|1||123456^^^Hospital^MR||DOE^JOHN^A||19800101|M|||123 Main St^^Anytown^NY^12345||(555)555-5555
+# PHI/PII: Address, Phone Number
+
+OBR|1||1234^Lab|DIA001^DIALYSIS^L
+# OBR: Observation Request - details about the order/test
+# Usually no PHI here, but contains order and procedure codes
+
+OBX|1|NM|BP^Blood Pressure||145|mmHg
+# OBX: Observation Result - test/measurement results
+# Could contain PHI if linked directly to patient info, usually sensitive clinical data
+
+OBX|2|NM|TMP^Temperature||36.8|C
+# OBX: Additional observation results
+
+OBX|3|NM|HCT^Hematocrit||41|%
+# OBX: Additional observation results
