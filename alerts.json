@@ -1,0 +1,24 @@
+{
+  "alerts": [
+    {
+      "timestamp": "2025-08-11 09:10:02",
+      "level": "WARN",
+      "message": "Message count low: only 2"
+    },
+    {
+      "timestamp": "2025-08-11 09:13:02",
+      "level": "ERROR",
+      "message": "HL7 parse failure - msg_id=MSG00002 - missing PID segment"
+    },
+    {
+      "timestamp": "2025-08-11 09:15:02",
+      "level": "ERROR",
+      "message": "HL7 Listener down - connection refused"
+    },
+    {
+      "timestamp": "2025-08-11 09:25:03",
+      "level": "WARN",
+      "message": "High latency detected: avg 1200ms[2025-08-11 09:30:00] ERROR - Mirth channel QUEUE_OVERFLOW - messages queued: 1200"
+    }
+  ]
+}

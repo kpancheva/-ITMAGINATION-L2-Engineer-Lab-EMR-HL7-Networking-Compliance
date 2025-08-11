@@ -1,0 +1,10 @@
+[2025-08-11 09:00:01] INFO  - HL7 Listener running - 0 errors
+[2025-08-11 09:05:02] INFO  - Message count in last 5 min: 12
+[2025-08-11 09:10:02] WARN  - Message count low: only 2
+[2025-08-11 09:12:15] INFO  - Received ORU message id=MSG00001 from 10.10.10.11
+[2025-08-11 09:13:02] ERROR - HL7 parse failure - msg_id=MSG00002 - missing PID segment
+[2025-08-11 09:14:00] INFO  - ACK not received for msg_id=MSG00003 after 30s
+[2025-08-11 09:15:02] ERROR - HL7 Listener down - connection refused
+[2025-08-11 09:20:03] INFO  - HL7 Listener restarted successfully
+[2025-08-11 09:22:05] INFO  - Message count in last 5 min: 10
+[2025-08-11 09:25:03] WARN  - High latency detected: avg 1200ms[2025-08-11 09:30:00] ERROR - Mirth channel QUEUE_OVERFLOW - messages queued: 1200
