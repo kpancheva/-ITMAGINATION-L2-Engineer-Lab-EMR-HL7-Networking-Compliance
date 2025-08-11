@@ -28,15 +28,20 @@ To simulate real-world healthcare IT support scenarios, including:
 
     Markdown - For writing detailed RCA and incident reports
 
-📁 Repository Structure
-Folder	Description
-hl7-integration/	Simulate HL7 message flow using Mirth Connect
-networking-lab/	VLAN, DNS, firewall configuration and troubleshooting
-cloud-monitoring/	Simulate cloud-connected medical device heartbeats, generate alerts, and perform downtime RCA
-sql-diagnostics/	Analyze healthcare data with SQL queries and perform diagnostics and RCA
-security-compliance/	HIPAA & GDPR security simulations, audit logging, and policy configuration
-rca-scenarios/	Root Cause Analysis templates, incident writeups, and best practice documentation
-diagrams/	Architecture diagrams, network flowcharts, and visual aids
+
+## 📁 Repository Structure
+
+| Folder               | Description                                                                                   |
+|----------------------|-----------------------------------------------------------------------------------------------|
+| `hl7-integration/`   | Simulate HL7 message flow using Mirth Connect and Python scripts                              |
+| `networking-lab/`    | VLAN, DNS, firewall configuration and troubleshooting                                        |
+| `cloud-monitoring/`  | Simulate cloud-connected medical device heartbeats, alert generation, and downtime RCA       |
+| `sql-diagnostics/`   | Analyze healthcare data using SQL queries; perform diagnostics and root cause analysis (RCA) |
+| `security-compliance/` | HIPAA & GDPR security simulations, audit logging, and policy configuration                  |
+| `rca-scenarios/`     | Root Cause Analysis templates, incident writeups, and best practice documentation            |
+| `diagrams/`          | Architecture diagrams, network flowcharts, and other visual aids                             |
+
+
 
 ## 📦 Quick Start (HL7 Lab)
 
