@@ -9,28 +9,34 @@ To simulate real-world healthcare IT support scenarios, including:
 - Device-to-EMR HL7 message flow
 - Network connectivity & VLAN issues
 - SQL-based diagnostics & RCA
+- Simulation of cloud-connected medical device monitoring with alerting
 - HIPAA/GDPR-aligned compliance configuration
 
-## 🔧 Tools & Technologies
+🔧 Tools & Technologies Used
 
-- **Mirth Connect** (HL7 Interface Engine)
-- **PostgreSQL**
-- **Python** (HL7 sender)
-- **Wireshark**, **pfSense**, **Cisco Packet Tracer**
-- **Docker**, **Azure/AWS Basics**
-- **Markdown for RCA documentation**
+    Mirth Connect - HL7 Interface Engine for message routing and transformation
 
-## 📁 Structure
+    PostgreSQL - Database for storing and querying HL7 data and alerts
 
-| Folder | Description |
-|--------|-------------|
-| `hl7-integration/` | Simulate HL7 message flow using Mirth Connect |
-| `networking-lab/` | VLAN, DNS, firewall config and troubleshooting |
-| `cloud-monitoring/` | Simulate device heartbeat and monitoring |
-| `sql-diagnostics/` | Analyze medical data and troubleshoot delays |
-| `security-compliance/` | HIPAA/GDPR simulation, audit logging |
-| `rca-scenarios/` | Root Cause Analysis templates and writeups |
-| `diagrams/` | Architecture and network flow diagrams |
+    Python - Automation and HL7 message sending/parsing scripts
+
+    Wireshark - Network packet capture for troubleshooting
+
+    pfSense, Cisco Packet Tracer - Network devices and VLAN/firewall simulation
+
+    Docker & Azure/AWS Basics - For containerization and cloud connectivity concepts
+
+    Markdown - For writing detailed RCA and incident reports
+
+📁 Repository Structure
+Folder	Description
+hl7-integration/	Simulate HL7 message flow using Mirth Connect
+networking-lab/	VLAN, DNS, firewall configuration and troubleshooting
+cloud-monitoring/	Simulate cloud-connected medical device heartbeats, generate alerts, and perform downtime RCA
+sql-diagnostics/	Analyze healthcare data with SQL queries and perform diagnostics and RCA
+security-compliance/	HIPAA & GDPR security simulations, audit logging, and policy configuration
+rca-scenarios/	Root Cause Analysis templates, incident writeups, and best practice documentation
+diagrams/	Architecture diagrams, network flowcharts, and visual aids
 
 ## 📦 Quick Start (HL7 Lab)
 
@@ -42,4 +48,4 @@ To simulate real-world healthcare IT support scenarios, including:
 
 ## 📋 Licensing
 
-MIT License — use, fork, and modify freely.
+MIT License 
