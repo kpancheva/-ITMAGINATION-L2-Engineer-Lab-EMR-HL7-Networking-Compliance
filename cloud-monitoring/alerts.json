@@ -1,0 +1,14 @@
+[
+  {
+    "alert_ts": "2025-08-12T08:15:42Z",
+    "device_id": "dev-1",
+    "reason": "device-reported-error",
+    "detected_at": "2025-08-12T08:15:40Z",
+    "details": {
+      "ts": "2025-08-12T08:15:40Z",
+      "device_id": "dev-1",
+      "status": "ERROR",
+      "reason": "low-battery"
+    }
+  }
+]

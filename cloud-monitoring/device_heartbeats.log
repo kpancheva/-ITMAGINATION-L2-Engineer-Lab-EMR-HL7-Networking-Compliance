@@ -1,0 +1,642 @@
+{"ts": "2025-08-12T08:13:45Z", "device_id": "dev-1", "status": "OK", "battery": 74, "metric": 191.29}
+{"ts": "2025-08-12T08:13:47Z", "device_id": "dev-2", "status": "OK", "battery": 94, "metric": 34.76}
+{"ts": "2025-08-12T08:13:48Z", "device_id": "dev-3", "status": "OK", "battery": 100, "metric": 121.7}
+{"ts": "2025-08-12T08:13:50Z", "device_id": "dev-1", "status": "OK", "battery": 89, "metric": 146.71}
+{"ts": "2025-08-12T08:13:52Z", "device_id": "dev-2", "status": "OK", "battery": 92, "metric": 109.23}
+{"ts": "2025-08-12T08:13:54Z", "device_id": "dev-3", "status": "OK", "battery": 32, "metric": 70.59}
+{"ts": "2025-08-12T08:13:55Z", "device_id": "dev-1", "status": "OK", "battery": 41, "metric": 134.94}
+{"ts": "2025-08-12T08:13:57Z", "device_id": "dev-2", "status": "OK", "battery": 65, "metric": 103.36}
+{"ts": "2025-08-12T08:13:59Z", "device_id": "dev-3", "status": "ERROR", "reason": "sensor-fault"}
+{"ts": "2025-08-12T08:14:01Z", "device_id": "dev-1", "status": "OK", "battery": 33, "metric": 44.81}
+{"ts": "2025-08-12T08:14:02Z", "device_id": "dev-2", "status": "OK", "battery": 95, "metric": 56.78}
+{"ts": "2025-08-12T08:14:04Z", "device_id": "dev-3", "status": "OK", "battery": 32, "metric": 131.51}
+{"ts": "2025-08-12T08:14:06Z", "device_id": "dev-1", "status": "OK", "battery": 86, "metric": 37.79}
+{"ts": "2025-08-12T08:14:08Z", "device_id": "dev-2", "status": "OK", "battery": 75, "metric": 26.42}
+{"ts": "2025-08-12T08:14:09Z", "device_id": "dev-3", "status": "OK", "battery": 53, "metric": 120.44}
+{"ts": "2025-08-12T08:14:11Z", "device_id": "dev-1", "status": "OK", "battery": 44, "metric": 1.55}
+{"ts": "2025-08-12T08:14:13Z", "device_id": "dev-2", "status": "OK", "battery": 43, "metric": 68.9}
+{"ts": "2025-08-12T08:14:14Z", "device_id": "dev-3", "status": "OK", "battery": 96, "metric": 22.61}
+{"ts": "2025-08-12T08:14:16Z", "device_id": "dev-1", "status": "OK", "battery": 37, "metric": 158.83}
+{"ts": "2025-08-12T08:14:18Z", "device_id": "dev-2", "status": "OK", "battery": 78, "metric": 64.27}
+{"ts": "2025-08-12T08:14:20Z", "device_id": "dev-3", "status": "OK", "battery": 74, "metric": 86.25}
+{"ts": "2025-08-12T08:14:21Z", "device_id": "dev-1", "status": "OK", "battery": 87, "metric": 62.55}
+{"ts": "2025-08-12T08:14:23Z", "device_id": "dev-2", "status": "OK", "battery": 82, "metric": 71.55}
+{"ts": "2025-08-12T08:14:25Z", "device_id": "dev-3", "status": "OK", "battery": 53, "metric": 130.65}
+{"ts": "2025-08-12T08:14:27Z", "device_id": "dev-1", "status": "OK", "battery": 69, "metric": 132.13}
+{"ts": "2025-08-12T08:14:28Z", "device_id": "dev-2", "status": "OK", "battery": 35, "metric": 57.04}
+{"ts": "2025-08-12T08:14:30Z", "device_id": "dev-3", "status": "OK", "battery": 80, "metric": 98.32}
+{"ts": "2025-08-12T08:14:34Z", "device_id": "dev-2", "status": "OK", "battery": 73, "metric": 117.78}
+{"ts": "2025-08-12T08:14:35Z", "device_id": "dev-3", "status": "OK", "battery": 96, "metric": 142.76}
+{"ts": "2025-08-12T08:14:37Z", "device_id": "dev-1", "status": "OK", "battery": 94, "metric": 100.62}
+{"ts": "2025-08-12T08:14:39Z", "device_id": "dev-2", "status": "OK", "battery": 68, "metric": 112.73}
+{"ts": "2025-08-12T08:14:40Z", "device_id": "dev-3", "status": "OK", "battery": 90, "metric": 26.27}
+{"ts": "2025-08-12T08:14:42Z", "device_id": "dev-1", "status": "OK", "battery": 31, "metric": 115.41}
+{"ts": "2025-08-12T08:14:44Z", "device_id": "dev-2", "status": "OK", "battery": 44, "metric": 68.42}
+{"ts": "2025-08-12T08:14:46Z", "device_id": "dev-3", "status": "OK", "battery": 76, "metric": 24.17}
+{"ts": "2025-08-12T08:14:47Z", "device_id": "dev-1", "status": "OK", "battery": 87, "metric": 56.92}
+{"ts": "2025-08-12T08:14:51Z", "device_id": "dev-3", "status": "OK", "battery": 89, "metric": 161.82}
+{"ts": "2025-08-12T08:14:53Z", "device_id": "dev-1", "status": "OK", "battery": 39, "metric": 99.25}
+{"ts": "2025-08-12T08:14:54Z", "device_id": "dev-2", "status": "OK", "battery": 31, "metric": 19.6}
+{"ts": "2025-08-12T08:14:56Z", "device_id": "dev-3", "status": "OK", "battery": 43, "metric": 124.08}
+{"ts": "2025-08-12T08:14:58Z", "device_id": "dev-1", "status": "OK", "battery": 60, "metric": 92.68}
+{"ts": "2025-08-12T08:15:00Z", "device_id": "dev-2", "status": "OK", "battery": 85, "metric": 84.16}
+{"ts": "2025-08-12T08:15:01Z", "device_id": "dev-3", "status": "OK", "battery": 59, "metric": 158.81}
+{"ts": "2025-08-12T08:15:03Z", "device_id": "dev-1", "status": "OK", "battery": 89, "metric": 99.27}
+{"ts": "2025-08-12T08:15:05Z", "device_id": "dev-2", "status": "OK", "battery": 72, "metric": 51.81}
+{"ts": "2025-08-12T08:15:08Z", "device_id": "dev-1", "status": "OK", "battery": 90, "metric": 82.89}
+{"ts": "2025-08-12T08:15:10Z", "device_id": "dev-2", "status": "OK", "battery": 74, "metric": 26.34}
+{"ts": "2025-08-12T08:15:12Z", "device_id": "dev-3", "status": "OK", "battery": 95, "metric": 30.87}
+{"ts": "2025-08-12T08:15:14Z", "device_id": "dev-1", "status": "OK", "battery": 40, "metric": 140.38}
+{"ts": "2025-08-12T08:15:15Z", "device_id": "dev-2", "status": "OK", "battery": 71, "metric": 35.96}
+{"ts": "2025-08-12T08:15:19Z", "device_id": "dev-1", "status": "OK", "battery": 84, "metric": 1.0}
+{"ts": "2025-08-12T08:15:20Z", "device_id": "dev-2", "status": "OK", "battery": 47, "metric": 6.23}
+{"ts": "2025-08-12T08:15:22Z", "device_id": "dev-3", "status": "OK", "battery": 49, "metric": 92.21}
+{"ts": "2025-08-12T08:15:24Z", "device_id": "dev-1", "status": "OK", "battery": 94, "metric": 32.75}
+{"ts": "2025-08-12T08:15:26Z", "device_id": "dev-2", "status": "OK", "battery": 55, "metric": 160.91}
+{"ts": "2025-08-12T08:15:27Z", "device_id": "dev-3", "status": "OK", "battery": 56, "metric": 12.04}
+{"ts": "2025-08-12T08:15:29Z", "device_id": "dev-1", "status": "OK", "battery": 53, "metric": 35.63}
+{"ts": "2025-08-12T08:15:32Z", "device_id": "dev-3", "status": "OK", "battery": 83, "metric": 110.75}
+{"ts": "2025-08-12T08:15:34Z", "device_id": "dev-1", "status": "OK", "battery": 54, "metric": 191.62}
+{"ts": "2025-08-12T08:15:36Z", "device_id": "dev-2", "status": "OK", "battery": 36, "metric": 199.83}
+{"ts": "2025-08-12T08:15:38Z", "device_id": "dev-3", "status": "OK", "battery": 76, "metric": 80.98}
+{"ts": "2025-08-12T08:15:40Z", "device_id": "dev-1", "status": "ERROR", "reason": "low-battery"}
+{"ts": "2025-08-12T08:15:41Z", "device_id": "dev-2", "status": "OK", "battery": 57, "metric": 12.92}
+{"ts": "2025-08-12T08:15:43Z", "device_id": "dev-3", "status": "OK", "battery": 42, "metric": 54.38}
+{"ts": "2025-08-12T08:15:45Z", "device_id": "dev-1", "status": "OK", "battery": 39, "metric": 13.7}
+{"ts": "2025-08-12T08:15:46Z", "device_id": "dev-2", "status": "OK", "battery": 76, "metric": 93.49}
+{"ts": "2025-08-12T08:15:48Z", "device_id": "dev-3", "status": "OK", "battery": 84, "metric": 148.49}
+{"ts": "2025-08-12T08:15:50Z", "device_id": "dev-1", "status": "OK", "battery": 34, "metric": 94.59}
+{"ts": "2025-08-12T08:15:52Z", "device_id": "dev-2", "status": "OK", "battery": 88, "metric": 43.58}
+{"ts": "2025-08-12T08:15:53Z", "device_id": "dev-3", "status": "OK", "battery": 86, "metric": 54.33}
+{"ts": "2025-08-12T08:15:55Z", "device_id": "dev-1", "status": "OK", "battery": 66, "metric": 13.79}
+{"ts": "2025-08-12T08:15:57Z", "device_id": "dev-2", "status": "OK", "battery": 53, "metric": 104.75}
+{"ts": "2025-08-12T08:15:58Z", "device_id": "dev-3", "status": "OK", "battery": 50, "metric": 83.15}
+{"ts": "2025-08-12T08:16:00Z", "device_id": "dev-1", "status": "OK", "battery": 61, "metric": 1.23}
+{"ts": "2025-08-12T08:16:02Z", "device_id": "dev-2", "status": "OK", "battery": 83, "metric": 68.75}
+{"ts": "2025-08-12T08:16:04Z", "device_id": "dev-3", "status": "OK", "battery": 47, "metric": 189.5}
+{"ts": "2025-08-12T08:16:06Z", "device_id": "dev-1", "status": "OK", "battery": 76, "metric": 36.71}
+{"ts": "2025-08-12T08:16:09Z", "device_id": "dev-3", "status": "OK", "battery": 37, "metric": 114.56}
+{"ts": "2025-08-12T08:16:11Z", "device_id": "dev-1", "status": "OK", "battery": 41, "metric": 97.26}
+{"ts": "2025-08-12T08:16:12Z", "device_id": "dev-2", "status": "OK", "battery": 71, "metric": 53.06}
+{"ts": "2025-08-12T08:16:14Z", "device_id": "dev-3", "status": "OK", "battery": 82, "metric": 13.54}
+{"ts": "2025-08-12T08:16:16Z", "device_id": "dev-1", "status": "OK", "battery": 55, "metric": 195.69}
+{"ts": "2025-08-12T08:16:18Z", "device_id": "dev-2", "status": "OK", "battery": 87, "metric": 50.62}
+{"ts": "2025-08-12T08:16:19Z", "device_id": "dev-3", "status": "OK", "battery": 66, "metric": 144.19}
+{"ts": "2025-08-12T08:16:21Z", "device_id": "dev-1", "status": "OK", "battery": 77, "metric": 25.18}
+{"ts": "2025-08-12T08:16:23Z", "device_id": "dev-2", "status": "OK", "battery": 81, "metric": 97.24}
+{"ts": "2025-08-12T08:16:25Z", "device_id": "dev-3", "status": "OK", "battery": 70, "metric": 164.25}
+{"ts": "2025-08-12T08:16:26Z", "device_id": "dev-1", "status": "OK", "battery": 67, "metric": 33.16}
+{"ts": "2025-08-12T08:16:28Z", "device_id": "dev-2", "status": "OK", "battery": 88, "metric": 6.85}
+{"ts": "2025-08-12T08:16:30Z", "device_id": "dev-3", "status": "OK", "battery": 81, "metric": 72.26}
+{"ts": "2025-08-12T08:16:32Z", "device_id": "dev-1", "status": "OK", "battery": 34, "metric": 61.16}
+{"ts": "2025-08-12T08:16:33Z", "device_id": "dev-2", "status": "OK", "battery": 91, "metric": 20.53}
+{"ts": "2025-08-12T08:16:35Z", "device_id": "dev-3", "status": "OK", "battery": 30, "metric": 139.57}
+{"ts": "2025-08-12T08:16:37Z", "device_id": "dev-1", "status": "OK", "battery": 90, "metric": 158.02}
+{"ts": "2025-08-12T08:16:38Z", "device_id": "dev-2", "status": "OK", "battery": 44, "metric": 60.48}
+{"ts": "2025-08-12T08:16:40Z", "device_id": "dev-3", "status": "OK", "battery": 74, "metric": 10.91}
+{"ts": "2025-08-12T08:16:42Z", "device_id": "dev-1", "status": "OK", "battery": 42, "metric": 27.55}
+{"ts": "2025-08-12T08:16:44Z", "device_id": "dev-2", "status": "OK", "battery": 47, "metric": 141.46}
+{"ts": "2025-08-12T08:16:45Z", "device_id": "dev-3", "status": "OK", "battery": 85, "metric": 136.57}
+{"ts": "2025-08-12T08:16:47Z", "device_id": "dev-1", "status": "OK", "battery": 77, "metric": 104.1}
+{"ts": "2025-08-12T08:16:49Z", "device_id": "dev-2", "status": "OK", "battery": 93, "metric": 30.85}
+{"ts": "2025-08-12T08:16:51Z", "device_id": "dev-3", "status": "OK", "battery": 34, "metric": 157.49}
+{"ts": "2025-08-12T08:16:52Z", "device_id": "dev-1", "status": "OK", "battery": 72, "metric": 122.89}
+{"ts": "2025-08-12T08:16:54Z", "device_id": "dev-3", "status": "ERROR", "reason": "sensor-fault"}
+{"ts": "2025-08-12T08:16:54Z", "device_id": "dev-2", "status": "OK", "battery": 34, "metric": 179.06}
+{"ts": "2025-08-12T08:16:56Z", "device_id": "dev-3", "status": "OK", "battery": 48, "metric": 133.56}
+{"ts": "2025-08-12T08:16:58Z", "device_id": "dev-1", "status": "OK", "battery": 95, "metric": 187.83}
+{"ts": "2025-08-12T08:16:59Z", "device_id": "dev-3", "status": "OK", "battery": 39, "metric": 122.88}
+{"ts": "2025-08-12T08:16:59Z", "device_id": "dev-2", "status": "OK", "battery": 77, "metric": 157.31}
+{"ts": "2025-08-12T08:17:01Z", "device_id": "dev-3", "status": "OK", "battery": 77, "metric": 191.66}
+{"ts": "2025-08-12T08:17:03Z", "device_id": "dev-2", "status": "OK", "battery": 83, "metric": 167.38}
+{"ts": "2025-08-12T08:17:03Z", "device_id": "dev-1", "status": "OK", "battery": 41, "metric": 50.12}
+{"ts": "2025-08-12T08:17:04Z", "device_id": "dev-2", "status": "OK", "battery": 70, "metric": 28.45}
+{"ts": "2025-08-12T08:17:06Z", "device_id": "dev-3", "status": "OK", "battery": 87, "metric": 83.92}
+{"ts": "2025-08-12T08:17:08Z", "device_id": "dev-1", "status": "OK", "battery": 44, "metric": 4.77}
+{"ts": "2025-08-12T08:17:10Z", "device_id": "dev-2", "status": "OK", "battery": 71, "metric": 135.05}
+{"ts": "2025-08-12T08:17:11Z", "device_id": "dev-1", "status": "OK", "battery": 48, "metric": 51.58}
+{"ts": "2025-08-12T08:17:11Z", "device_id": "dev-3", "status": "OK", "battery": 63, "metric": 182.83}
+{"ts": "2025-08-12T08:17:13Z", "device_id": "dev-1", "status": "OK", "battery": 65, "metric": 169.38}
+{"ts": "2025-08-12T08:17:15Z", "device_id": "dev-2", "status": "OK", "battery": 75, "metric": 32.13}
+{"ts": "2025-08-12T08:17:17Z", "device_id": "dev-3", "status": "OK", "battery": 64, "metric": 66.64}
+{"ts": "2025-08-12T08:17:18Z", "device_id": "dev-2", "status": "OK", "battery": 44, "metric": 145.96}
+{"ts": "2025-08-12T08:17:18Z", "device_id": "dev-1", "status": "OK", "battery": 57, "metric": 182.12}
+{"ts": "2025-08-12T08:17:20Z", "device_id": "dev-3", "status": "ERROR", "reason": "low-battery"}
+{"ts": "2025-08-12T08:17:20Z", "device_id": "dev-2", "status": "OK", "battery": 89, "metric": 11.97}
+{"ts": "2025-08-12T08:17:22Z", "device_id": "dev-1", "status": "OK", "battery": 82, "metric": 132.33}
+{"ts": "2025-08-12T08:17:22Z", "device_id": "dev-3", "status": "OK", "battery": 49, "metric": 104.53}
+{"ts": "2025-08-12T08:17:24Z", "device_id": "dev-1", "status": "OK", "battery": 36, "metric": 195.41}
+{"ts": "2025-08-12T08:17:25Z", "device_id": "dev-2", "status": "OK", "battery": 31, "metric": 95.6}
+{"ts": "2025-08-12T08:17:27Z", "device_id": "dev-3", "status": "OK", "battery": 55, "metric": 47.91}
+{"ts": "2025-08-12T08:17:29Z", "device_id": "dev-2", "status": "ERROR", "reason": "low-battery"}
+{"ts": "2025-08-12T08:17:29Z", "device_id": "dev-1", "status": "OK", "battery": 90, "metric": 141.74}
+{"ts": "2025-08-12T08:17:31Z", "device_id": "dev-2", "status": "OK", "battery": 67, "metric": 115.81}
+{"ts": "2025-08-12T08:17:32Z", "device_id": "dev-3", "status": "OK", "battery": 93, "metric": 161.04}
+{"ts": "2025-08-12T08:17:34Z", "device_id": "dev-2", "status": "ERROR", "reason": "comm-failure"}
+{"ts": "2025-08-12T08:17:34Z", "device_id": "dev-1", "status": "OK", "battery": 51, "metric": 12.02}
+{"ts": "2025-08-12T08:17:36Z", "device_id": "dev-2", "status": "OK", "battery": 30, "metric": 128.02}
+{"ts": "2025-08-12T08:17:37Z", "device_id": "dev-3", "status": "OK", "battery": 55, "metric": 115.0}
+{"ts": "2025-08-12T08:17:39Z", "device_id": "dev-1", "status": "OK", "battery": 46, "metric": 47.01}
+{"ts": "2025-08-12T08:17:41Z", "device_id": "dev-3", "status": "ERROR", "reason": "low-battery"}
+{"ts": "2025-08-12T08:17:41Z", "device_id": "dev-2", "status": "OK", "battery": 99, "metric": 26.89}
+{"ts": "2025-08-12T08:17:43Z", "device_id": "dev-1", "status": "ERROR", "reason": "low-battery"}
+{"ts": "2025-08-12T08:17:43Z", "device_id": "dev-3", "status": "OK", "battery": 71, "metric": 182.13}
+{"ts": "2025-08-12T08:17:44Z", "device_id": "dev-1", "status": "OK", "battery": 63, "metric": 29.59}
+{"ts": "2025-08-12T08:17:46Z", "device_id": "dev-3", "status": "OK", "battery": 54, "metric": 133.78}
+{"ts": "2025-08-12T08:17:46Z", "device_id": "dev-2", "status": "OK", "battery": 71, "metric": 125.39}
+{"ts": "2025-08-12T08:17:48Z", "device_id": "dev-1", "status": "ERROR", "reason": "sensor-fault"}
+{"ts": "2025-08-12T08:17:48Z", "device_id": "dev-3", "status": "ERROR", "reason": "sensor-fault"}
+{"ts": "2025-08-12T08:17:50Z", "device_id": "dev-1", "status": "OK", "battery": 49, "metric": 72.68}
+{"ts": "2025-08-12T08:17:51Z", "device_id": "dev-3", "status": "ERROR", "reason": "sensor-fault"}
+{"ts": "2025-08-12T08:17:51Z", "device_id": "dev-2", "status": "OK", "battery": 74, "metric": 193.04}
+{"ts": "2025-08-12T08:17:53Z", "device_id": "dev-3", "status": "OK", "battery": 31, "metric": 61.38}
+{"ts": "2025-08-12T08:17:55Z", "device_id": "dev-1", "status": "OK", "battery": 91, "metric": 67.33}
+{"ts": "2025-08-12T08:17:57Z", "device_id": "dev-2", "status": "OK", "battery": 51, "metric": 41.47}
+{"ts": "2025-08-12T08:17:58Z", "device_id": "dev-3", "status": "OK", "battery": 31, "metric": 130.35}
+{"ts": "2025-08-12T08:18:00Z", "device_id": "dev-1", "status": "OK", "battery": 35, "metric": 23.89}
+{"ts": "2025-08-12T08:18:02Z", "device_id": "dev-2", "status": "OK", "battery": 33, "metric": 82.64}
+{"ts": "2025-08-12T08:18:03Z", "device_id": "dev-3", "status": "OK", "battery": 32, "metric": 100.01}
+{"ts": "2025-08-12T08:18:05Z", "device_id": "dev-2", "status": "ERROR", "reason": "low-battery"}
+{"ts": "2025-08-12T08:18:05Z", "device_id": "dev-1", "status": "OK", "battery": 77, "metric": 67.8}
+{"ts": "2025-08-12T08:18:07Z", "device_id": "dev-2", "status": "OK", "battery": 74, "metric": 170.17}
+{"ts": "2025-08-12T08:18:10Z", "device_id": "dev-2", "status": "ERROR", "reason": "low-battery"}
+{"ts": "2025-08-12T08:18:10Z", "device_id": "dev-1", "status": "OK", "battery": 30, "metric": 54.94}
+{"ts": "2025-08-12T08:18:12Z", "device_id": "dev-2", "status": "OK", "battery": 66, "metric": 199.64}
+{"ts": "2025-08-12T08:18:14Z", "device_id": "dev-3", "status": "OK", "battery": 69, "metric": 59.85}
+{"ts": "2025-08-12T08:18:16Z", "device_id": "dev-1", "status": "OK", "battery": 84, "metric": 24.76}
+{"ts": "2025-08-12T08:18:17Z", "device_id": "dev-3", "status": "ERROR", "reason": "low-battery"}
+{"ts": "2025-08-12T08:18:17Z", "device_id": "dev-2", "status": "OK", "battery": 91, "metric": 59.99}
+{"ts": "2025-08-12T08:18:19Z", "device_id": "dev-1", "status": "OK", "battery": 69, "metric": 142.63}
+{"ts": "2025-08-12T08:18:19Z", "device_id": "dev-3", "status": "OK", "battery": 87, "metric": 129.95}
+{"ts": "2025-08-12T08:18:22Z", "device_id": "dev-3", "status": "OK", "battery": 43, "metric": 11.71}
+{"ts": "2025-08-12T08:18:23Z", "device_id": "dev-2", "status": "OK", "battery": 76, "metric": 75.88}
+{"ts": "2025-08-12T08:18:24Z", "device_id": "dev-1", "status": "OK", "battery": 87, "metric": 167.52}
+{"ts": "2025-08-12T08:18:24Z", "device_id": "dev-3", "status": "OK", "battery": 71, "metric": 111.52}
+{"ts": "2025-08-12T08:18:26Z", "device_id": "dev-1", "status": "OK", "battery": 74, "metric": 94.62}
+{"ts": "2025-08-12T08:18:28Z", "device_id": "dev-2", "status": "OK", "battery": 72, "metric": 198.82}
+{"ts": "2025-08-12T08:18:29Z", "device_id": "dev-3", "status": "OK", "battery": 81, "metric": 61.47}
+{"ts": "2025-08-12T08:18:31Z", "device_id": "dev-1", "status": "OK", "battery": 67, "metric": 69.48}
+{"ts": "2025-08-12T08:18:33Z", "device_id": "dev-2", "status": "OK", "battery": 96, "metric": 10.82}
+{"ts": "2025-08-12T08:18:35Z", "device_id": "dev-1", "status": "ERROR", "reason": "sensor-fault"}
+{"ts": "2025-08-12T08:18:35Z", "device_id": "dev-3", "status": "OK", "battery": 55, "metric": 40.15}
+{"ts": "2025-08-12T08:18:36Z", "device_id": "dev-1", "status": "OK", "battery": 63, "metric": 180.85}
+{"ts": "2025-08-12T08:18:38Z", "device_id": "dev-3", "status": "ERROR", "reason": "low-battery"}
+{"ts": "2025-08-12T08:18:38Z", "device_id": "dev-2", "status": "OK", "battery": 59, "metric": 145.56}
+{"ts": "2025-08-12T08:18:40Z", "device_id": "dev-3", "status": "OK", "battery": 49, "metric": 152.64}
+{"ts": "2025-08-12T08:18:41Z", "device_id": "dev-2", "status": "OK", "battery": 58, "metric": 62.89}
+{"ts": "2025-08-12T08:18:42Z", "device_id": "dev-1", "status": "OK", "battery": 86, "metric": 5.58}
+{"ts": "2025-08-12T08:18:43Z", "device_id": "dev-2", "status": "OK", "battery": 41, "metric": 153.56}
+{"ts": "2025-08-12T08:18:45Z", "device_id": "dev-1", "status": "ERROR", "reason": "sensor-fault"}
+{"ts": "2025-08-12T08:18:45Z", "device_id": "dev-3", "status": "OK", "battery": 62, "metric": 157.83}
+{"ts": "2025-08-12T08:18:47Z", "device_id": "dev-2", "status": "ERROR", "reason": "sensor-fault"}
+{"ts": "2025-08-12T08:18:47Z", "device_id": "dev-1", "status": "OK", "battery": 90, "metric": 102.35}
+{"ts": "2025-08-12T08:18:49Z", "device_id": "dev-2", "status": "OK", "battery": 69, "metric": 116.72}
+{"ts": "2025-08-12T08:18:50Z", "device_id": "dev-1", "status": "OK", "battery": 56, "metric": 68.29}
+{"ts": "2025-08-12T08:18:50Z", "device_id": "dev-3", "status": "OK", "battery": 94, "metric": 198.35}
+{"ts": "2025-08-12T08:18:52Z", "device_id": "dev-1", "status": "OK", "battery": 92, "metric": 175.36}
+{"ts": "2025-08-12T08:18:54Z", "device_id": "dev-2", "status": "OK", "battery": 85, "metric": 166.98}
+{"ts": "2025-08-12T08:18:55Z", "device_id": "dev-1", "status": "ERROR", "reason": "low-battery"}
+{"ts": "2025-08-12T08:18:55Z", "device_id": "dev-3", "status": "OK", "battery": 90, "metric": 110.3}
+{"ts": "2025-08-12T08:18:57Z", "device_id": "dev-1", "status": "OK", "battery": 71, "metric": 26.05}
+{"ts": "2025-08-12T08:18:59Z", "device_id": "dev-3", "status": "ERROR", "reason": "low-battery"}
+{"ts": "2025-08-12T08:19:02Z", "device_id": "dev-2", "status": "OK", "battery": 32, "metric": 186.94}
+{"ts": "2025-08-12T08:19:03Z", "device_id": "dev-1", "status": "OK", "battery": 52, "metric": 117.37}
+{"ts": "2025-08-12T08:19:04Z", "device_id": "dev-2", "status": "OK", "battery": 81, "metric": 71.19}
+{"ts": "2025-08-12T08:19:06Z", "device_id": "dev-1", "status": "ERROR", "reason": "sensor-fault"}
+{"ts": "2025-08-12T08:19:06Z", "device_id": "dev-3", "status": "OK", "battery": 73, "metric": 158.71}
+{"ts": "2025-08-12T08:19:07Z", "device_id": "dev-2", "status": "ERROR", "reason": "sensor-fault"}
+{"ts": "2025-08-12T08:19:08Z", "device_id": "dev-1", "status": "OK", "battery": 30, "metric": 106.83}
+{"ts": "2025-08-12T08:19:09Z", "device_id": "dev-2", "status": "OK", "battery": 32, "metric": 133.2}
+{"ts": "2025-08-12T08:19:11Z", "device_id": "dev-1", "status": "OK", "battery": 90, "metric": 76.46}
+{"ts": "2025-08-12T08:19:11Z", "device_id": "dev-3", "status": "OK", "battery": 30, "metric": 165.74}
+{"ts": "2025-08-12T08:19:13Z", "device_id": "dev-2", "status": "ERROR", "reason": "low-battery"}
+{"ts": "2025-08-12T08:19:15Z", "device_id": "dev-2", "status": "OK", "battery": 63, "metric": 33.83}
+{"ts": "2025-08-12T08:19:16Z", "device_id": "dev-3", "status": "OK", "battery": 53, "metric": 191.58}
+{"ts": "2025-08-12T08:19:18Z", "device_id": "dev-1", "status": "OK", "battery": 69, "metric": 108.87}
+{"ts": "2025-08-12T08:19:20Z", "device_id": "dev-3", "status": "ERROR", "reason": "low-battery"}
+{"ts": "2025-08-12T08:19:20Z", "device_id": "dev-2", "status": "OK", "battery": 35, "metric": 138.29}
+{"ts": "2025-08-12T08:19:21Z", "device_id": "dev-1", "status": "OK", "battery": 58, "metric": 62.57}
+{"ts": "2025-08-12T08:19:21Z", "device_id": "dev-3", "status": "OK", "battery": 57, "metric": 148.85}
+{"ts": "2025-08-12T08:19:23Z", "device_id": "dev-1", "status": "OK", "battery": 89, "metric": 14.75}
+{"ts": "2025-08-12T08:19:25Z", "device_id": "dev-2", "status": "OK", "battery": 89, "metric": 154.14}
+{"ts": "2025-08-12T08:19:27Z", "device_id": "dev-3", "status": "OK", "battery": 50, "metric": 126.53}
+{"ts": "2025-08-12T08:19:28Z", "device_id": "dev-2", "status": "ERROR", "reason": "sensor-fault"}
+{"ts": "2025-08-12T08:19:29Z", "device_id": "dev-1", "status": "OK", "battery": 31, "metric": 72.68}
+{"ts": "2025-08-12T08:19:30Z", "device_id": "dev-3", "status": "ERROR", "reason": "comm-failure"}
+{"ts": "2025-08-12T08:19:30Z", "device_id": "dev-2", "status": "OK", "battery": 41, "metric": 60.11}
+{"ts": "2025-08-12T08:19:32Z", "device_id": "dev-1", "status": "OK", "battery": 36, "metric": 153.2}
+{"ts": "2025-08-12T08:19:32Z", "device_id": "dev-3", "status": "OK", "battery": 71, "metric": 145.98}
+{"ts": "2025-08-12T08:19:34Z", "device_id": "dev-1", "status": "ERROR", "reason": "low-battery"}
+{"ts": "2025-08-12T08:19:35Z", "device_id": "dev-3", "status": "OK", "battery": 79, "metric": 39.74}
+{"ts": "2025-08-12T08:19:35Z", "device_id": "dev-2", "status": "OK", "battery": 40, "metric": 107.98}
+{"ts": "2025-08-12T08:19:37Z", "device_id": "dev-3", "status": "OK", "battery": 67, "metric": 133.88}
+{"ts": "2025-08-12T08:19:39Z", "device_id": "dev-1", "status": "OK", "battery": 34, "metric": 65.72}
+{"ts": "2025-08-12T08:19:41Z", "device_id": "dev-2", "status": "OK", "battery": 57, "metric": 115.44}
+{"ts": "2025-08-12T08:19:42Z", "device_id": "dev-3", "status": "OK", "battery": 44, "metric": 56.92}
+{"ts": "2025-08-12T08:19:44Z", "device_id": "dev-2", "status": "OK", "battery": 38, "metric": 110.52}
+{"ts": "2025-08-12T08:19:44Z", "device_id": "dev-1", "status": "OK", "battery": 75, "metric": 134.86}
+{"ts": "2025-08-12T08:19:46Z", "device_id": "dev-2", "status": "OK", "battery": 43, "metric": 69.19}
+{"ts": "2025-08-12T08:19:47Z", "device_id": "dev-3", "status": "OK", "battery": 60, "metric": 36.23}
+{"ts": "2025-08-12T08:19:49Z", "device_id": "dev-1", "status": "OK", "battery": 100, "metric": 126.08}
+{"ts": "2025-08-12T08:19:51Z", "device_id": "dev-3", "status": "ERROR", "reason": "comm-failure"}
+{"ts": "2025-08-12T08:19:51Z", "device_id": "dev-2", "status": "OK", "battery": 30, "metric": 127.39}
+{"ts": "2025-08-12T08:19:53Z", "device_id": "dev-3", "status": "OK", "battery": 63, "metric": 14.67}
+{"ts": "2025-08-12T08:19:55Z", "device_id": "dev-1", "status": "OK", "battery": 98, "metric": 136.42}
+{"ts": "2025-08-12T08:19:56Z", "device_id": "dev-3", "status": "OK", "battery": 85, "metric": 66.28}
+{"ts": "2025-08-12T08:19:56Z", "device_id": "dev-2", "status": "OK", "battery": 82, "metric": 91.72}
+{"ts": "2025-08-12T08:19:58Z", "device_id": "dev-1", "status": "ERROR", "reason": "comm-failure"}
+{"ts": "2025-08-12T08:19:58Z", "device_id": "dev-3", "status": "OK", "battery": 87, "metric": 175.59}
+{"ts": "2025-08-12T08:20:00Z", "device_id": "dev-1", "status": "OK", "battery": 54, "metric": 149.34}
+{"ts": "2025-08-12T08:20:01Z", "device_id": "dev-3", "status": "ERROR", "reason": "low-battery"}
+{"ts": "2025-08-12T08:20:01Z", "device_id": "dev-2", "status": "OK", "battery": 43, "metric": 44.74}
+{"ts": "2025-08-12T08:20:03Z", "device_id": "dev-1", "status": "ERROR", "reason": "comm-failure"}
+{"ts": "2025-08-12T08:20:03Z", "device_id": "dev-3", "status": "OK", "battery": 74, "metric": 94.46}
+{"ts": "2025-08-12T08:20:05Z", "device_id": "dev-1", "status": "OK", "battery": 81, "metric": 30.2}
+{"ts": "2025-08-12T08:20:06Z", "device_id": "dev-3", "status": "OK", "battery": 89, "metric": 4.31}
+{"ts": "2025-08-12T08:20:07Z", "device_id": "dev-2", "status": "OK", "battery": 33, "metric": 151.45}
+{"ts": "2025-08-12T08:20:10Z", "device_id": "dev-1", "status": "OK", "battery": 34, "metric": 102.37}
+{"ts": "2025-08-12T08:20:12Z", "device_id": "dev-3", "status": "ERROR", "reason": "comm-failure"}
+{"ts": "2025-08-12T08:20:12Z", "device_id": "dev-2", "status": "OK", "battery": 49, "metric": 76.79}
+{"ts": "2025-08-12T08:20:13Z", "device_id": "dev-1", "status": "OK", "battery": 66, "metric": 56.92}
+{"ts": "2025-08-12T08:20:14Z", "device_id": "dev-3", "status": "OK", "battery": 82, "metric": 73.86}
+{"ts": "2025-08-12T08:20:15Z", "device_id": "dev-2", "status": "ERROR", "reason": "low-battery"}
+{"ts": "2025-08-12T08:20:15Z", "device_id": "dev-1", "status": "OK", "battery": 30, "metric": 179.92}
+{"ts": "2025-08-12T08:20:17Z", "device_id": "dev-3", "status": "OK", "battery": 70, "metric": 57.82}
+{"ts": "2025-08-12T08:20:17Z", "device_id": "dev-2", "status": "ERROR", "reason": "comm-failure"}
+{"ts": "2025-08-12T08:20:19Z", "device_id": "dev-1", "status": "OK", "battery": 49, "metric": 119.66}
+{"ts": "2025-08-12T08:20:19Z", "device_id": "dev-3", "status": "OK", "battery": 35, "metric": 75.89}
+{"ts": "2025-08-12T08:20:21Z", "device_id": "dev-1", "status": "OK", "battery": 78, "metric": 193.04}
+{"ts": "2025-08-12T08:20:22Z", "device_id": "dev-3", "status": "ERROR", "reason": "low-battery"}
+{"ts": "2025-08-12T08:20:22Z", "device_id": "dev-2", "status": "OK", "battery": 31, "metric": 157.12}
+{"ts": "2025-08-12T08:20:24Z", "device_id": "dev-1", "status": "ERROR", "reason": "sensor-fault"}
+{"ts": "2025-08-12T08:20:24Z", "device_id": "dev-3", "status": "OK", "battery": 90, "metric": 109.01}
+{"ts": "2025-08-12T08:20:26Z", "device_id": "dev-1", "status": "OK", "battery": 55, "metric": 82.57}
+{"ts": "2025-08-12T08:20:27Z", "device_id": "dev-3", "status": "ERROR", "reason": "comm-failure"}
+{"ts": "2025-08-12T08:20:27Z", "device_id": "dev-2", "status": "OK", "battery": 33, "metric": 198.67}
+{"ts": "2025-08-12T08:20:29Z", "device_id": "dev-1", "status": "ERROR", "reason": "sensor-fault"}
+{"ts": "2025-08-12T08:20:29Z", "device_id": "dev-3", "status": "OK", "battery": 91, "metric": 1.5}
+{"ts": "2025-08-12T08:20:31Z", "device_id": "dev-1", "status": "OK", "battery": 74, "metric": 37.01}
+{"ts": "2025-08-12T08:20:33Z", "device_id": "dev-2", "status": "OK", "battery": 73, "metric": 102.77}
+{"ts": "2025-08-12T08:20:34Z", "device_id": "dev-3", "status": "OK", "battery": 42, "metric": 15.9}
+{"ts": "2025-08-12T08:20:36Z", "device_id": "dev-2", "status": "OK", "battery": 78, "metric": 60.63}
+{"ts": "2025-08-12T08:20:36Z", "device_id": "dev-1", "status": "OK", "battery": 53, "metric": 130.49}
+{"ts": "2025-08-12T08:20:38Z", "device_id": "dev-3", "status": "ERROR", "reason": "sensor-fault"}
+{"ts": "2025-08-12T08:20:38Z", "device_id": "dev-2", "status": "OK", "battery": 95, "metric": 67.71}
+{"ts": "2025-08-12T08:20:40Z", "device_id": "dev-3", "status": "OK", "battery": 91, "metric": 108.43}
+{"ts": "2025-08-12T08:20:41Z", "device_id": "dev-1", "status": "OK", "battery": 86, "metric": 192.62}
+{"ts": "2025-08-12T08:20:43Z", "device_id": "dev-2", "status": "OK", "battery": 71, "metric": 157.29}
+{"ts": "2025-08-12T08:20:45Z", "device_id": "dev-3", "status": "OK", "battery": 76, "metric": 71.05}
+{"ts": "2025-08-12T08:20:47Z", "device_id": "dev-1", "status": "OK", "battery": 91, "metric": 120.16}
+{"ts": "2025-08-12T08:20:48Z", "device_id": "dev-2", "status": "OK", "battery": 66, "metric": 34.74}
+{"ts": "2025-08-12T08:20:50Z", "device_id": "dev-3", "status": "OK", "battery": 79, "metric": 123.52}
+{"ts": "2025-08-12T08:20:52Z", "device_id": "dev-1", "status": "OK", "battery": 36, "metric": 83.31}
+{"ts": "2025-08-12T08:20:53Z", "device_id": "dev-3", "status": "ERROR", "reason": "comm-failure"}
+{"ts": "2025-08-12T08:20:54Z", "device_id": "dev-2", "status": "OK", "battery": 31, "metric": 72.73}
+{"ts": "2025-08-12T08:20:55Z", "device_id": "dev-1", "status": "ERROR", "reason": "comm-failure"}
+{"ts": "2025-08-12T08:20:55Z", "device_id": "dev-3", "status": "OK", "battery": 39, "metric": 52.75}
+{"ts": "2025-08-12T08:20:57Z", "device_id": "dev-1", "status": "OK", "battery": 51, "metric": 62.74}
+{"ts": "2025-08-12T08:20:58Z", "device_id": "dev-3", "status": "ERROR", "reason": "comm-failure"}
+{"ts": "2025-08-12T08:20:59Z", "device_id": "dev-2", "status": "OK", "battery": 51, "metric": 151.73}
+{"ts": "2025-08-12T08:21:00Z", "device_id": "dev-1", "status": "ERROR", "reason": "low-battery"}
+{"ts": "2025-08-12T08:21:00Z", "device_id": "dev-3", "status": "OK", "battery": 97, "metric": 124.33}
+{"ts": "2025-08-12T08:21:02Z", "device_id": "dev-2", "status": "OK", "battery": 97, "metric": 173.66}
+{"ts": "2025-08-12T08:21:02Z", "device_id": "dev-1", "status": "OK", "battery": 39, "metric": 128.49}
+{"ts": "2025-08-12T08:21:04Z", "device_id": "dev-3", "status": "ERROR", "reason": "sensor-fault"}
+{"ts": "2025-08-12T08:21:04Z", "device_id": "dev-2", "status": "OK", "battery": 96, "metric": 132.99}
+{"ts": "2025-08-12T08:21:06Z", "device_id": "dev-1", "status": "OK", "battery": 83, "metric": 175.75}
+{"ts": "2025-08-12T08:21:06Z", "device_id": "dev-3", "status": "OK", "battery": 62, "metric": 158.72}
+{"ts": "2025-08-12T08:21:07Z", "device_id": "dev-2", "status": "ERROR", "reason": "sensor-fault"}
+{"ts": "2025-08-12T08:21:07Z", "device_id": "dev-1", "status": "OK", "battery": 83, "metric": 40.76}
+{"ts": "2025-08-12T08:21:09Z", "device_id": "dev-3", "status": "ERROR", "reason": "comm-failure"}
+{"ts": "2025-08-12T08:21:09Z", "device_id": "dev-2", "status": "OK", "battery": 83, "metric": 170.66}
+{"ts": "2025-08-12T08:21:11Z", "device_id": "dev-1", "status": "OK", "battery": 36, "metric": 148.43}
+{"ts": "2025-08-12T08:21:11Z", "device_id": "dev-3", "status": "OK", "battery": 66, "metric": 45.54}
+{"ts": "2025-08-12T08:21:12Z", "device_id": "dev-2", "status": "OK", "battery": 74, "metric": 152.28}
+{"ts": "2025-08-12T08:21:13Z", "device_id": "dev-1", "status": "OK", "battery": 79, "metric": 104.32}
+{"ts": "2025-08-12T08:21:14Z", "device_id": "dev-3", "status": "OK", "battery": 57, "metric": 161.11}
+{"ts": "2025-08-12T08:21:14Z", "device_id": "dev-2", "status": "OK", "battery": 90, "metric": 168.02}
+{"ts": "2025-08-12T08:21:16Z", "device_id": "dev-1", "status": "OK", "battery": 54, "metric": 184.73}
+{"ts": "2025-08-12T08:21:16Z", "device_id": "dev-3", "status": "OK", "battery": 73, "metric": 139.17}
+{"ts": "2025-08-12T08:21:18Z", "device_id": "dev-2", "status": "OK", "battery": 98, "metric": 119.56}
+{"ts": "2025-08-12T08:21:18Z", "device_id": "dev-1", "status": "OK", "battery": 99, "metric": 109.45}
+{"ts": "2025-08-12T08:21:20Z", "device_id": "dev-2", "status": "OK", "battery": 94, "metric": 25.21}
+{"ts": "2025-08-12T08:21:23Z", "device_id": "dev-1", "status": "OK", "battery": 94, "metric": 83.28}
+{"ts": "2025-08-12T08:21:25Z", "device_id": "dev-2", "status": "OK", "battery": 39, "metric": 120.63}
+{"ts": "2025-08-12T08:21:26Z", "device_id": "dev-3", "status": "OK", "battery": 94, "metric": 30.87}
+{"ts": "2025-08-12T08:21:28Z", "device_id": "dev-1", "status": "OK", "battery": 61, "metric": 115.26}
+{"ts": "2025-08-12T08:21:30Z", "device_id": "dev-2", "status": "ERROR", "reason": "comm-failure"}
+{"ts": "2025-08-12T08:21:32Z", "device_id": "dev-1", "status": "ERROR", "reason": "low-battery"}
+{"ts": "2025-08-12T08:21:32Z", "device_id": "dev-3", "status": "OK", "battery": 44, "metric": 60.86}
+{"ts": "2025-08-12T08:21:34Z", "device_id": "dev-1", "status": "OK", "battery": 64, "metric": 49.3}
+{"ts": "2025-08-12T08:21:35Z", "device_id": "dev-2", "status": "OK", "battery": 78, "metric": 58.94}
+{"ts": "2025-08-12T08:21:37Z", "device_id": "dev-3", "status": "OK", "battery": 98, "metric": 53.02}
+{"ts": "2025-08-12T08:21:39Z", "device_id": "dev-1", "status": "OK", "battery": 57, "metric": 86.36}
+{"ts": "2025-08-12T08:21:40Z", "device_id": "dev-2", "status": "OK", "battery": 56, "metric": 142.62}
+{"ts": "2025-08-12T08:21:42Z", "device_id": "dev-1", "status": "OK", "battery": 62, "metric": 72.69}
+{"ts": "2025-08-12T08:21:42Z", "device_id": "dev-3", "status": "OK", "battery": 46, "metric": 62.67}
+{"ts": "2025-08-12T08:21:44Z", "device_id": "dev-2", "status": "OK", "battery": 62, "metric": 12.14}
+{"ts": "2025-08-12T08:21:44Z", "device_id": "dev-1", "status": "OK", "battery": 67, "metric": 176.89}
+{"ts": "2025-08-12T08:21:46Z", "device_id": "dev-2", "status": "OK", "battery": 94, "metric": 36.2}
+{"ts": "2025-08-12T08:21:47Z", "device_id": "dev-1", "status": "ERROR", "reason": "sensor-fault"}
+{"ts": "2025-08-12T08:21:47Z", "device_id": "dev-3", "status": "OK", "battery": 78, "metric": 37.44}
+{"ts": "2025-08-12T08:21:49Z", "device_id": "dev-1", "status": "OK", "battery": 58, "metric": 48.6}
+{"ts": "2025-08-12T08:21:51Z", "device_id": "dev-2", "status": "OK", "battery": 89, "metric": 121.34}
+{"ts": "2025-08-12T08:21:52Z", "device_id": "dev-3", "status": "OK", "battery": 87, "metric": 189.78}
+{"ts": "2025-08-12T08:21:54Z", "device_id": "dev-1", "status": "OK", "battery": 100, "metric": 198.63}
+{"ts": "2025-08-12T08:21:56Z", "device_id": "dev-2", "status": "OK", "battery": 60, "metric": 45.49}
+{"ts": "2025-08-12T08:21:58Z", "device_id": "dev-3", "status": "OK", "battery": 79, "metric": 77.42}
+{"ts": "2025-08-12T08:21:59Z", "device_id": "dev-2", "status": "ERROR", "reason": "sensor-fault"}
+{"ts": "2025-08-12T08:22:00Z", "device_id": "dev-1", "status": "OK", "battery": 55, "metric": 70.41}
+{"ts": "2025-08-12T08:22:01Z", "device_id": "dev-3", "status": "OK", "battery": 76, "metric": 84.98}
+{"ts": "2025-08-12T08:22:01Z", "device_id": "dev-2", "status": "OK", "battery": 71, "metric": 99.18}
+{"ts": "2025-08-12T08:22:03Z", "device_id": "dev-1", "status": "OK", "battery": 45, "metric": 170.08}
+{"ts": "2025-08-12T08:22:03Z", "device_id": "dev-3", "status": "OK", "battery": 96, "metric": 64.64}
+{"ts": "2025-08-12T08:22:04Z", "device_id": "dev-2", "status": "OK", "battery": 62, "metric": 130.1}
+{"ts": "2025-08-12T08:22:05Z", "device_id": "dev-1", "status": "OK", "battery": 60, "metric": 8.63}
+{"ts": "2025-08-12T08:22:06Z", "device_id": "dev-2", "status": "OK", "battery": 46, "metric": 168.13}
+{"ts": "2025-08-12T08:22:08Z", "device_id": "dev-3", "status": "OK", "battery": 42, "metric": 29.91}
+{"ts": "2025-08-12T08:22:10Z", "device_id": "dev-1", "status": "OK", "battery": 51, "metric": 177.0}
+{"ts": "2025-08-12T08:22:11Z", "device_id": "dev-3", "status": "ERROR", "reason": "comm-failure"}
+{"ts": "2025-08-12T08:22:12Z", "device_id": "dev-2", "status": "OK", "battery": 50, "metric": 158.12}
+{"ts": "2025-08-12T08:22:13Z", "device_id": "dev-3", "status": "OK", "battery": 77, "metric": 113.68}
+{"ts": "2025-08-12T08:22:15Z", "device_id": "dev-2", "status": "ERROR", "reason": "sensor-fault"}
+{"ts": "2025-08-12T08:22:15Z", "device_id": "dev-1", "status": "OK", "battery": 99, "metric": 165.15}
+{"ts": "2025-08-12T08:22:17Z", "device_id": "dev-2", "status": "OK", "battery": 59, "metric": 154.22}
+{"ts": "2025-08-12T08:22:18Z", "device_id": "dev-1", "status": "ERROR", "reason": "sensor-fault"}
+{"ts": "2025-08-12T08:22:18Z", "device_id": "dev-3", "status": "OK", "battery": 61, "metric": 86.15}
+{"ts": "2025-08-12T08:22:20Z", "device_id": "dev-2", "status": "ERROR", "reason": "sensor-fault"}
+{"ts": "2025-08-12T08:22:20Z", "device_id": "dev-1", "status": "OK", "battery": 78, "metric": 144.25}
+{"ts": "2025-08-12T08:22:22Z", "device_id": "dev-3", "status": "ERROR", "reason": "sensor-fault"}
+{"ts": "2025-08-12T08:22:22Z", "device_id": "dev-2", "status": "OK", "battery": 72, "metric": 22.73}
+{"ts": "2025-08-12T08:22:24Z", "device_id": "dev-1", "status": "ERROR", "reason": "comm-failure"}
+{"ts": "2025-08-12T08:22:24Z", "device_id": "dev-3", "status": "OK", "battery": 42, "metric": 106.28}
+{"ts": "2025-08-12T08:22:25Z", "device_id": "dev-2", "status": "ERROR", "reason": "low-battery"}
+{"ts": "2025-08-12T08:22:26Z", "device_id": "dev-1", "status": "OK", "battery": 99, "metric": 157.86}
+{"ts": "2025-08-12T08:22:27Z", "device_id": "dev-2", "status": "OK", "battery": 98, "metric": 86.93}
+{"ts": "2025-08-12T08:22:29Z", "device_id": "dev-1", "status": "ERROR", "reason": "low-battery"}
+{"ts": "2025-08-12T08:22:29Z", "device_id": "dev-3", "status": "OK", "battery": 42, "metric": 73.4}
+{"ts": "2025-08-12T08:22:31Z", "device_id": "dev-1", "status": "OK", "battery": 51, "metric": 49.11}
+{"ts": "2025-08-12T08:22:32Z", "device_id": "dev-2", "status": "OK", "battery": 74, "metric": 11.59}
+{"ts": "2025-08-12T08:22:34Z", "device_id": "dev-3", "status": "OK", "battery": 79, "metric": 114.78}
+{"ts": "2025-08-12T08:22:36Z", "device_id": "dev-1", "status": "OK", "battery": 61, "metric": 52.3}
+{"ts": "2025-08-12T08:22:38Z", "device_id": "dev-2", "status": "OK", "battery": 89, "metric": 102.91}
+{"ts": "2025-08-12T08:22:39Z", "device_id": "dev-3", "status": "OK", "battery": 94, "metric": 164.18}
+{"ts": "2025-08-12T08:22:41Z", "device_id": "dev-2", "status": "ERROR", "reason": "low-battery"}
+{"ts": "2025-08-12T08:22:41Z", "device_id": "dev-1", "status": "OK", "battery": 40, "metric": 47.65}
+{"ts": "2025-08-12T08:22:43Z", "device_id": "dev-3", "status": "ERROR", "reason": "comm-failure"}
+{"ts": "2025-08-12T08:22:43Z", "device_id": "dev-2", "status": "OK", "battery": 43, "metric": 176.83}
+{"ts": "2025-08-12T08:22:44Z", "device_id": "dev-1", "status": "OK", "battery": 82, "metric": 121.69}
+{"ts": "2025-08-12T08:22:44Z", "device_id": "dev-3", "status": "OK", "battery": 32, "metric": 20.29}
+{"ts": "2025-08-12T08:22:46Z", "device_id": "dev-1", "status": "OK", "battery": 69, "metric": 197.15}
+{"ts": "2025-08-12T08:22:48Z", "device_id": "dev-3", "status": "ERROR", "reason": "comm-failure"}
+{"ts": "2025-08-12T08:22:48Z", "device_id": "dev-2", "status": "OK", "battery": 42, "metric": 47.26}
+{"ts": "2025-08-12T08:22:50Z", "device_id": "dev-1", "status": "ERROR", "reason": "low-battery"}
+{"ts": "2025-08-12T08:22:50Z", "device_id": "dev-3", "status": "OK", "battery": 50, "metric": 29.56}
+{"ts": "2025-08-12T08:22:52Z", "device_id": "dev-1", "status": "OK", "battery": 61, "metric": 55.44}
+{"ts": "2025-08-12T08:22:53Z", "device_id": "dev-3", "status": "ERROR", "reason": "comm-failure"}
+{"ts": "2025-08-12T08:22:53Z", "device_id": "dev-2", "status": "OK", "battery": 86, "metric": 74.03}
+{"ts": "2025-08-12T08:22:55Z", "device_id": "dev-3", "status": "OK", "battery": 74, "metric": 30.84}
+{"ts": "2025-08-12T08:22:56Z", "device_id": "dev-2", "status": "ERROR", "reason": "comm-failure"}
+{"ts": "2025-08-12T08:22:57Z", "device_id": "dev-1", "status": "OK", "battery": 71, "metric": 170.96}
+{"ts": "2025-08-12T08:22:58Z", "device_id": "dev-2", "status": "OK", "battery": 80, "metric": 119.53}
+{"ts": "2025-08-12T08:23:02Z", "device_id": "dev-2", "status": "ERROR", "reason": "sensor-fault"}
+{"ts": "2025-08-12T08:23:02Z", "device_id": "dev-1", "status": "OK", "battery": 81, "metric": 119.75}
+{"ts": "2025-08-12T08:23:04Z", "device_id": "dev-2", "status": "OK", "battery": 99, "metric": 154.34}
+{"ts": "2025-08-12T08:23:05Z", "device_id": "dev-3", "status": "OK", "battery": 46, "metric": 38.24}
+{"ts": "2025-08-12T08:23:07Z", "device_id": "dev-2", "status": "OK", "battery": 54, "metric": 91.33}
+{"ts": "2025-08-12T08:23:07Z", "device_id": "dev-1", "status": "OK", "battery": 100, "metric": 137.73}
+{"ts": "2025-08-12T08:23:09Z", "device_id": "dev-3", "status": "ERROR", "reason": "low-battery"}
+{"ts": "2025-08-12T08:23:09Z", "device_id": "dev-2", "status": "OK", "battery": 59, "metric": 85.11}
+{"ts": "2025-08-12T08:23:10Z", "device_id": "dev-1", "status": "OK", "battery": 57, "metric": 54.42}
+{"ts": "2025-08-12T08:23:12Z", "device_id": "dev-1", "status": "OK", "battery": 57, "metric": 77.61}
+{"ts": "2025-08-12T08:23:14Z", "device_id": "dev-2", "status": "OK", "battery": 39, "metric": 196.05}
+{"ts": "2025-08-12T08:23:16Z", "device_id": "dev-1", "status": "ERROR", "reason": "low-battery"}
+{"ts": "2025-08-12T08:23:16Z", "device_id": "dev-3", "status": "OK", "battery": 75, "metric": 75.03}
+{"ts": "2025-08-12T08:23:17Z", "device_id": "dev-2", "status": "ERROR", "reason": "sensor-fault"}
+{"ts": "2025-08-12T08:23:18Z", "device_id": "dev-1", "status": "OK", "battery": 67, "metric": 25.42}
+{"ts": "2025-08-12T08:23:19Z", "device_id": "dev-3", "status": "ERROR", "reason": "comm-failure"}
+{"ts": "2025-08-12T08:23:19Z", "device_id": "dev-2", "status": "OK", "battery": 98, "metric": 186.19}
+{"ts": "2025-08-12T08:23:21Z", "device_id": "dev-3", "status": "OK", "battery": 63, "metric": 11.9}
+{"ts": "2025-08-12T08:23:23Z", "device_id": "dev-1", "status": "OK", "battery": 46, "metric": 24.6}
+{"ts": "2025-08-12T08:23:24Z", "device_id": "dev-2", "status": "OK", "battery": 92, "metric": 61.79}
+{"ts": "2025-08-12T08:23:26Z", "device_id": "dev-3", "status": "OK", "battery": 96, "metric": 0.64}
+{"ts": "2025-08-12T08:23:28Z", "device_id": "dev-2", "status": "OK", "battery": 93, "metric": 148.79}
+{"ts": "2025-08-12T08:23:28Z", "device_id": "dev-1", "status": "OK", "battery": 89, "metric": 6.15}
+{"ts": "2025-08-12T08:23:29Z", "device_id": "dev-3", "status": "ERROR", "reason": "low-battery"}
+{"ts": "2025-08-12T08:23:30Z", "device_id": "dev-2", "status": "OK", "battery": 76, "metric": 97.22}
+{"ts": "2025-08-12T08:23:31Z", "device_id": "dev-1", "status": "OK", "battery": 72, "metric": 195.3}
+{"ts": "2025-08-12T08:23:31Z", "device_id": "dev-3", "status": "OK", "battery": 52, "metric": 128.69}
+{"ts": "2025-08-12T08:23:33Z", "device_id": "dev-2", "status": "ERROR", "reason": "comm-failure"}
+{"ts": "2025-08-12T08:23:33Z", "device_id": "dev-1", "status": "OK", "battery": 72, "metric": 21.04}
+{"ts": "2025-08-12T08:23:35Z", "device_id": "dev-2", "status": "OK", "battery": 42, "metric": 178.03}
+{"ts": "2025-08-12T08:23:36Z", "device_id": "dev-1", "status": "ERROR", "reason": "low-battery"}
+{"ts": "2025-08-12T08:23:38Z", "device_id": "dev-1", "status": "OK", "battery": 84, "metric": 163.91}
+{"ts": "2025-08-12T08:23:40Z", "device_id": "dev-3", "status": "OK", "battery": 66, "metric": 55.33}
+{"ts": "2025-08-12T08:23:40Z", "device_id": "dev-2", "status": "OK", "battery": 77, "metric": 12.84}
+{"ts": "2025-08-12T08:23:42Z", "device_id": "dev-3", "status": "OK", "battery": 55, "metric": 39.45}
+{"ts": "2025-08-12T08:23:43Z", "device_id": "dev-2", "status": "OK", "battery": 95, "metric": 168.42}
+{"ts": "2025-08-12T08:23:44Z", "device_id": "dev-1", "status": "OK", "battery": 98, "metric": 79.9}
+{"ts": "2025-08-12T08:23:45Z", "device_id": "dev-2", "status": "OK", "battery": 71, "metric": 133.11}
+{"ts": "2025-08-12T08:23:47Z", "device_id": "dev-3", "status": "OK", "battery": 100, "metric": 25.53}
+{"ts": "2025-08-12T08:23:48Z", "device_id": "dev-2", "status": "OK", "battery": 93, "metric": 60.47}
+{"ts": "2025-08-12T08:23:49Z", "device_id": "dev-1", "status": "OK", "battery": 46, "metric": 189.43}
+{"ts": "2025-08-12T08:23:50Z", "device_id": "dev-3", "status": "ERROR", "reason": "low-battery"}
+{"ts": "2025-08-12T08:23:50Z", "device_id": "dev-2", "status": "OK", "battery": 80, "metric": 101.69}
+{"ts": "2025-08-12T08:23:52Z", "device_id": "dev-3", "status": "OK", "battery": 79, "metric": 124.97}
+{"ts": "2025-08-12T08:23:54Z", "device_id": "dev-2", "status": "ERROR", "reason": "sensor-fault"}
+{"ts": "2025-08-12T08:23:54Z", "device_id": "dev-1", "status": "OK", "battery": 67, "metric": 45.03}
+{"ts": "2025-08-12T08:23:55Z", "device_id": "dev-3", "status": "OK", "battery": 69, "metric": 185.06}
+{"ts": "2025-08-12T08:23:56Z", "device_id": "dev-2", "status": "OK", "battery": 99, "metric": 35.54}
+{"ts": "2025-08-12T08:23:57Z", "device_id": "dev-3", "status": "OK", "battery": 59, "metric": 0.35}
+{"ts": "2025-08-12T08:23:59Z", "device_id": "dev-2", "status": "OK", "battery": 31, "metric": 175.42}
+{"ts": "2025-08-12T08:23:59Z", "device_id": "dev-1", "status": "OK", "battery": 74, "metric": 131.57}
+{"ts": "2025-08-12T08:24:01Z", "device_id": "dev-2", "status": "OK", "battery": 92, "metric": 40.72}
+{"ts": "2025-08-12T08:24:03Z", "device_id": "dev-3", "status": "OK", "battery": 96, "metric": 168.01}
+{"ts": "2025-08-12T08:24:04Z", "device_id": "dev-2", "status": "OK", "battery": 84, "metric": 29.47}
+{"ts": "2025-08-12T08:24:04Z", "device_id": "dev-1", "status": "OK", "battery": 50, "metric": 158.0}
+{"ts": "2025-08-12T08:24:06Z", "device_id": "dev-2", "status": "OK", "battery": 87, "metric": 97.84}
+{"ts": "2025-08-12T08:24:08Z", "device_id": "dev-1", "status": "ERROR", "reason": "comm-failure"}
+{"ts": "2025-08-12T08:24:08Z", "device_id": "dev-3", "status": "OK", "battery": 89, "metric": 159.43}
+{"ts": "2025-08-12T08:24:10Z", "device_id": "dev-1", "status": "OK", "battery": 39, "metric": 2.45}
+{"ts": "2025-08-12T08:24:11Z", "device_id": "dev-3", "status": "ERROR", "reason": "sensor-fault"}
+{"ts": "2025-08-12T08:24:11Z", "device_id": "dev-2", "status": "OK", "battery": 44, "metric": 48.15}
+{"ts": "2025-08-12T08:24:13Z", "device_id": "dev-1", "status": "OK", "battery": 95, "metric": 0.63}
+{"ts": "2025-08-12T08:24:13Z", "device_id": "dev-3", "status": "OK", "battery": 30, "metric": 188.52}
+{"ts": "2025-08-12T08:24:15Z", "device_id": "dev-1", "status": "OK", "battery": 83, "metric": 12.14}
+{"ts": "2025-08-12T08:24:16Z", "device_id": "dev-2", "status": "OK", "battery": 69, "metric": 52.57}
+{"ts": "2025-08-12T08:24:18Z", "device_id": "dev-3", "status": "OK", "battery": 58, "metric": 184.36}
+{"ts": "2025-08-12T08:24:20Z", "device_id": "dev-1", "status": "OK", "battery": 36, "metric": 5.27}
+{"ts": "2025-08-12T08:24:22Z", "device_id": "dev-2", "status": "OK", "battery": 94, "metric": 103.33}
+{"ts": "2025-08-12T08:24:23Z", "device_id": "dev-3", "status": "OK", "battery": 72, "metric": 132.52}
+{"ts": "2025-08-12T08:24:25Z", "device_id": "dev-2", "status": "OK", "battery": 65, "metric": 193.61}
+{"ts": "2025-08-12T08:24:25Z", "device_id": "dev-1", "status": "OK", "battery": 66, "metric": 131.35}
+{"ts": "2025-08-12T08:24:27Z", "device_id": "dev-3", "status": "OK", "battery": 66, "metric": 158.26}
+{"ts": "2025-08-12T08:24:27Z", "device_id": "dev-2", "status": "OK", "battery": 98, "metric": 108.71}
+{"ts": "2025-08-12T08:24:28Z", "device_id": "dev-1", "status": "ERROR", "reason": "sensor-fault"}
+{"ts": "2025-08-12T08:24:29Z", "device_id": "dev-3", "status": "ERROR", "reason": "comm-failure"}
+{"ts": "2025-08-12T08:24:30Z", "device_id": "dev-2", "status": "OK", "battery": 44, "metric": 63.36}
+{"ts": "2025-08-12T08:24:30Z", "device_id": "dev-1", "status": "OK", "battery": 36, "metric": 198.12}
+{"ts": "2025-08-12T08:24:32Z", "device_id": "dev-2", "status": "OK", "battery": 84, "metric": 101.99}
+{"ts": "2025-08-12T08:24:34Z", "device_id": "dev-3", "status": "OK", "battery": 82, "metric": 27.24}
+{"ts": "2025-08-12T08:24:35Z", "device_id": "dev-2", "status": "OK", "battery": 80, "metric": 173.97}
+{"ts": "2025-08-12T08:24:36Z", "device_id": "dev-1", "status": "OK", "battery": 36, "metric": 21.61}
+{"ts": "2025-08-12T08:24:37Z", "device_id": "dev-3", "status": "ERROR", "reason": "low-battery"}
+{"ts": "2025-08-12T08:24:37Z", "device_id": "dev-2", "status": "OK", "battery": 85, "metric": 51.42}
+{"ts": "2025-08-12T08:24:39Z", "device_id": "dev-3", "status": "OK", "battery": 50, "metric": 74.58}
+{"ts": "2025-08-12T08:24:41Z", "device_id": "dev-2", "status": "OK", "battery": 53, "metric": 22.39}
+{"ts": "2025-08-12T08:24:41Z", "device_id": "dev-1", "status": "OK", "battery": 73, "metric": 178.72}
+{"ts": "2025-08-12T08:24:43Z", "device_id": "dev-2", "status": "OK", "battery": 62, "metric": 8.81}
+{"ts": "2025-08-12T08:24:44Z", "device_id": "dev-3", "status": "OK", "battery": 81, "metric": 179.44}
+{"ts": "2025-08-12T08:24:46Z", "device_id": "dev-1", "status": "OK", "battery": 73, "metric": 185.88}
+{"ts": "2025-08-12T08:24:48Z", "device_id": "dev-2", "status": "OK", "battery": 43, "metric": 92.16}
+{"ts": "2025-08-12T08:24:49Z", "device_id": "dev-3", "status": "OK", "battery": 73, "metric": 153.78}
+{"ts": "2025-08-12T08:24:51Z", "device_id": "dev-1", "status": "OK", "battery": 69, "metric": 25.24}
+{"ts": "2025-08-12T08:24:53Z", "device_id": "dev-3", "status": "ERROR", "reason": "comm-failure"}
+{"ts": "2025-08-12T08:24:53Z", "device_id": "dev-2", "status": "OK", "battery": 72, "metric": 94.08}
+{"ts": "2025-08-12T08:24:55Z", "device_id": "dev-1", "status": "ERROR", "reason": "sensor-fault"}
+{"ts": "2025-08-12T08:24:55Z", "device_id": "dev-3", "status": "OK", "battery": 44, "metric": 107.95}
+{"ts": "2025-08-12T08:24:56Z", "device_id": "dev-1", "status": "OK", "battery": 99, "metric": 135.92}
+{"ts": "2025-08-12T08:24:58Z", "device_id": "dev-2", "status": "OK", "battery": 80, "metric": 67.32}
+{"ts": "2025-08-12T08:25:00Z", "device_id": "dev-1", "status": "OK", "battery": 42, "metric": 169.73}
+{"ts": "2025-08-12T08:25:00Z", "device_id": "dev-3", "status": "OK", "battery": 79, "metric": 122.83}
+{"ts": "2025-08-12T08:25:01Z", "device_id": "dev-2", "status": "ERROR", "reason": "sensor-fault"}
+{"ts": "2025-08-12T08:25:02Z", "device_id": "dev-1", "status": "OK", "battery": 42, "metric": 56.41}
+{"ts": "2025-08-12T08:25:03Z", "device_id": "dev-3", "status": "OK", "battery": 31, "metric": 90.74}
+{"ts": "2025-08-12T08:25:03Z", "device_id": "dev-2", "status": "ERROR", "reason": "sensor-fault"}
+{"ts": "2025-08-12T08:25:07Z", "device_id": "dev-2", "status": "ERROR", "reason": "low-battery"}
+{"ts": "2025-08-12T08:25:07Z", "device_id": "dev-1", "status": "OK", "battery": 61, "metric": 152.67}
+{"ts": "2025-08-12T08:25:09Z", "device_id": "dev-2", "status": "OK", "battery": 100, "metric": 30.79}
+{"ts": "2025-08-12T08:25:10Z", "device_id": "dev-3", "status": "OK", "battery": 76, "metric": 23.49}
+{"ts": "2025-08-12T08:25:12Z", "device_id": "dev-2", "status": "ERROR", "reason": "low-battery"}
+{"ts": "2025-08-12T08:25:12Z", "device_id": "dev-1", "status": "OK", "battery": 65, "metric": 153.69}
+{"ts": "2025-08-12T08:25:14Z", "device_id": "dev-2", "status": "OK", "battery": 56, "metric": 40.37}
+{"ts": "2025-08-12T08:25:15Z", "device_id": "dev-1", "status": "ERROR", "reason": "low-battery"}
+{"ts": "2025-08-12T08:25:15Z", "device_id": "dev-3", "status": "OK", "battery": 57, "metric": 94.73}
+{"ts": "2025-08-12T08:25:17Z", "device_id": "dev-2", "status": "OK", "battery": 81, "metric": 179.04}
+{"ts": "2025-08-12T08:25:17Z", "device_id": "dev-1", "status": "OK", "battery": 71, "metric": 34.86}
+{"ts": "2025-08-12T08:25:19Z", "device_id": "dev-3", "status": "ERROR", "reason": "sensor-fault"}
+{"ts": "2025-08-12T08:25:19Z", "device_id": "dev-2", "status": "OK", "battery": 36, "metric": 40.73}
+{"ts": "2025-08-12T08:25:21Z", "device_id": "dev-1", "status": "OK", "battery": 76, "metric": 63.26}
+{"ts": "2025-08-12T08:25:21Z", "device_id": "dev-3", "status": "OK", "battery": 50, "metric": 61.23}
+{"ts": "2025-08-12T08:25:23Z", "device_id": "dev-1", "status": "OK", "battery": 96, "metric": 124.55}
+{"ts": "2025-08-12T08:25:24Z", "device_id": "dev-3", "status": "ERROR", "reason": "low-battery"}
+{"ts": "2025-08-12T08:25:24Z", "device_id": "dev-2", "status": "OK", "battery": 45, "metric": 162.81}
+{"ts": "2025-08-12T08:25:26Z", "device_id": "dev-3", "status": "OK", "battery": 97, "metric": 15.1}
+{"ts": "2025-08-12T08:25:27Z", "device_id": "dev-2", "status": "ERROR", "reason": "comm-failure"}
+{"ts": "2025-08-12T08:25:28Z", "device_id": "dev-1", "status": "OK", "battery": 93, "metric": 155.74}
+{"ts": "2025-08-12T08:25:29Z", "device_id": "dev-3", "status": "ERROR", "reason": "sensor-fault"}
+{"ts": "2025-08-12T08:25:29Z", "device_id": "dev-2", "status": "ERROR", "reason": "comm-failure"}
+{"ts": "2025-08-12T08:25:31Z", "device_id": "dev-1", "status": "OK", "battery": 51, "metric": 32.39}
+{"ts": "2025-08-12T08:25:31Z", "device_id": "dev-3", "status": "OK", "battery": 70, "metric": 187.29}
+{"ts": "2025-08-12T08:25:33Z", "device_id": "dev-1", "status": "OK", "battery": 92, "metric": 147.68}
+{"ts": "2025-08-12T08:25:34Z", "device_id": "dev-3", "status": "ERROR", "reason": "sensor-fault"}
+{"ts": "2025-08-12T08:25:35Z", "device_id": "dev-2", "status": "OK", "battery": 60, "metric": 90.02}
+{"ts": "2025-08-12T08:25:36Z", "device_id": "dev-1", "status": "OK", "battery": 40, "metric": 123.81}
+{"ts": "2025-08-12T08:25:36Z", "device_id": "dev-3", "status": "OK", "battery": 84, "metric": 93.86}
+{"ts": "2025-08-12T08:25:38Z", "device_id": "dev-1", "status": "OK", "battery": 42, "metric": 154.57}
+{"ts": "2025-08-12T08:25:39Z", "device_id": "dev-3", "status": "ERROR", "reason": "comm-failure"}
+{"ts": "2025-08-12T08:25:40Z", "device_id": "dev-2", "status": "OK", "battery": 88, "metric": 183.0}
+{"ts": "2025-08-12T08:25:41Z", "device_id": "dev-1", "status": "ERROR", "reason": "sensor-fault"}
+{"ts": "2025-08-12T08:25:41Z", "device_id": "dev-3", "status": "OK", "battery": 96, "metric": 187.03}
+{"ts": "2025-08-12T08:25:43Z", "device_id": "dev-1", "status": "OK", "battery": 59, "metric": 8.35}
+{"ts": "2025-08-12T08:25:45Z", "device_id": "dev-2", "status": "OK", "battery": 81, "metric": 89.51}
+{"ts": "2025-08-12T08:25:47Z", "device_id": "dev-1", "status": "ERROR", "reason": "low-battery"}
+{"ts": "2025-08-12T08:25:49Z", "device_id": "dev-1", "status": "OK", "battery": 82, "metric": 90.11}
+{"ts": "2025-08-12T08:25:50Z", "device_id": "dev-2", "status": "OK", "battery": 44, "metric": 4.85}
+{"ts": "2025-08-12T08:25:52Z", "device_id": "dev-3", "status": "OK", "battery": 99, "metric": 32.7}
+{"ts": "2025-08-12T08:25:53Z", "device_id": "dev-2", "status": "OK", "battery": 85, "metric": 105.89}
+{"ts": "2025-08-12T08:25:54Z", "device_id": "dev-1", "status": "OK", "battery": 48, "metric": 126.85}
+{"ts": "2025-08-12T08:25:55Z", "device_id": "dev-2", "status": "OK", "battery": 31, "metric": 81.4}
+{"ts": "2025-08-12T08:25:57Z", "device_id": "dev-1", "status": "OK", "battery": 41, "metric": 109.58}
+{"ts": "2025-08-12T08:25:57Z", "device_id": "dev-3", "status": "OK", "battery": 100, "metric": 152.74}
+{"ts": "2025-08-12T08:25:59Z", "device_id": "dev-1", "status": "OK", "battery": 83, "metric": 23.45}
+{"ts": "2025-08-12T08:26:01Z", "device_id": "dev-2", "status": "OK", "battery": 80, "metric": 18.5}
+{"ts": "2025-08-12T08:26:02Z", "device_id": "dev-1", "status": "ERROR", "reason": "comm-failure"}
+{"ts": "2025-08-12T08:26:02Z", "device_id": "dev-3", "status": "OK", "battery": 60, "metric": 161.17}
+{"ts": "2025-08-12T08:26:04Z", "device_id": "dev-2", "status": "OK", "battery": 51, "metric": 127.49}
+{"ts": "2025-08-12T08:26:04Z", "device_id": "dev-1", "status": "OK", "battery": 52, "metric": 16.13}
+{"ts": "2025-08-12T08:26:06Z", "device_id": "dev-3", "status": "ERROR", "reason": "comm-failure"}
+{"ts": "2025-08-12T08:26:06Z", "device_id": "dev-2", "status": "OK", "battery": 68, "metric": 23.34}
+{"ts": "2025-08-12T08:26:08Z", "device_id": "dev-3", "status": "OK", "battery": 50, "metric": 103.71}
+{"ts": "2025-08-12T08:26:09Z", "device_id": "dev-1", "status": "OK", "battery": 48, "metric": 14.09}
+{"ts": "2025-08-12T08:26:11Z", "device_id": "dev-2", "status": "OK", "battery": 96, "metric": 120.44}
+{"ts": "2025-08-12T08:26:13Z", "device_id": "dev-3", "status": "ERROR", "reason": "sensor-fault"}
+{"ts": "2025-08-12T08:26:14Z", "device_id": "dev-2", "status": "ERROR", "reason": "comm-failure"}
+{"ts": "2025-08-12T08:26:15Z", "device_id": "dev-1", "status": "OK", "battery": 54, "metric": 54.0}
+{"ts": "2025-08-12T08:26:16Z", "device_id": "dev-2", "status": "OK", "battery": 67, "metric": 128.84}
+{"ts": "2025-08-12T08:26:18Z", "device_id": "dev-1", "status": "ERROR", "reason": "low-battery"}
+{"ts": "2025-08-12T08:26:18Z", "device_id": "dev-3", "status": "OK", "battery": 69, "metric": 51.53}
+{"ts": "2025-08-12T08:26:19Z", "device_id": "dev-2", "status": "ERROR", "reason": "sensor-fault"}
+{"ts": "2025-08-12T08:26:20Z", "device_id": "dev-1", "status": "OK", "battery": 83, "metric": 169.19}
+{"ts": "2025-08-12T08:26:21Z", "device_id": "dev-3", "status": "ERROR", "reason": "sensor-fault"}
+{"ts": "2025-08-12T08:26:21Z", "device_id": "dev-2", "status": "OK", "battery": 90, "metric": 78.47}
+{"ts": "2025-08-12T08:26:23Z", "device_id": "dev-1", "status": "OK", "battery": 65, "metric": 150.02}
+{"ts": "2025-08-12T08:26:23Z", "device_id": "dev-3", "status": "OK", "battery": 66, "metric": 141.08}
+{"ts": "2025-08-12T08:26:25Z", "device_id": "dev-1", "status": "OK", "battery": 40, "metric": 2.23}
+{"ts": "2025-08-12T08:26:27Z", "device_id": "dev-2", "status": "OK", "battery": 30, "metric": 90.67}
+{"ts": "2025-08-12T08:26:28Z", "device_id": "dev-1", "status": "OK", "battery": 70, "metric": 144.87}
+{"ts": "2025-08-12T08:26:28Z", "device_id": "dev-3", "status": "OK", "battery": 81, "metric": 74.64}
+{"ts": "2025-08-12T08:26:30Z", "device_id": "dev-1", "status": "OK", "battery": 68, "metric": 22.51}
+{"ts": "2025-08-12T08:26:32Z", "device_id": "dev-2", "status": "OK", "battery": 76, "metric": 137.87}
+{"ts": "2025-08-12T08:26:33Z", "device_id": "dev-1", "status": "ERROR", "reason": "low-battery"}
+{"ts": "2025-08-12T08:26:34Z", "device_id": "dev-3", "status": "OK", "battery": 60, "metric": 17.83}
+{"ts": "2025-08-12T08:26:35Z", "device_id": "dev-1", "status": "OK", "battery": 45, "metric": 40.79}
+{"ts": "2025-08-12T08:26:37Z", "device_id": "dev-2", "status": "OK", "battery": 36, "metric": 124.67}
+{"ts": "2025-08-12T08:26:39Z", "device_id": "dev-1", "status": "OK", "battery": 76, "metric": 35.57}
+{"ts": "2025-08-12T08:26:39Z", "device_id": "dev-3", "status": "OK", "battery": 93, "metric": 82.43}
+{"ts": "2025-08-12T08:26:40Z", "device_id": "dev-2", "status": "ERROR", "reason": "low-battery"}
+{"ts": "2025-08-12T08:26:41Z", "device_id": "dev-1", "status": "OK", "battery": 73, "metric": 115.12}
+{"ts": "2025-08-12T08:26:42Z", "device_id": "dev-3", "status": "OK", "battery": 31, "metric": 120.51}
+{"ts": "2025-08-12T08:26:42Z", "device_id": "dev-2", "status": "OK", "battery": 60, "metric": 69.09}
+{"ts": "2025-08-12T08:26:44Z", "device_id": "dev-3", "status": "OK", "battery": 83, "metric": 69.59}
+{"ts": "2025-08-12T08:26:46Z", "device_id": "dev-1", "status": "OK", "battery": 55, "metric": 6.95}
+{"ts": "2025-08-12T08:26:48Z", "device_id": "dev-2", "status": "OK", "battery": 46, "metric": 181.27}
+{"ts": "2025-08-12T08:26:49Z", "device_id": "dev-1", "status": "OK", "battery": 97, "metric": 12.58}
+{"ts": "2025-08-12T08:26:49Z", "device_id": "dev-3", "status": "OK", "battery": 61, "metric": 109.58}
+{"ts": "2025-08-12T08:26:51Z", "device_id": "dev-2", "status": "ERROR", "reason": "comm-failure"}
+{"ts": "2025-08-12T08:26:51Z", "device_id": "dev-1", "status": "OK", "battery": 70, "metric": 139.01}
+{"ts": "2025-08-12T08:26:52Z", "device_id": "dev-3", "status": "OK", "battery": 34, "metric": 183.9}
+{"ts": "2025-08-12T08:26:53Z", "device_id": "dev-2", "status": "OK", "battery": 97, "metric": 194.87}
+{"ts": "2025-08-12T08:26:54Z", "device_id": "dev-3", "status": "OK", "battery": 71, "metric": 0.28}
+{"ts": "2025-08-12T08:26:56Z", "device_id": "dev-2", "status": "OK", "battery": 77, "metric": 116.72}
+{"ts": "2025-08-12T08:26:56Z", "device_id": "dev-1", "status": "OK", "battery": 90, "metric": 86.93}
+{"ts": "2025-08-12T08:26:58Z", "device_id": "dev-2", "status": "OK", "battery": 68, "metric": 13.94}
+{"ts": "2025-08-12T08:27:00Z", "device_id": "dev-3", "status": "OK", "battery": 75, "metric": 33.42}
+{"ts": "2025-08-12T08:27:01Z", "device_id": "dev-1", "status": "OK", "battery": 49, "metric": 9.16}
+{"ts": "2025-08-12T08:27:03Z", "device_id": "dev-2", "status": "OK", "battery": 36, "metric": 127.89}
+{"ts": "2025-08-12T08:27:05Z", "device_id": "dev-3", "status": "OK", "battery": 90, "metric": 83.14}
+{"ts": "2025-08-12T08:27:07Z", "device_id": "dev-1", "status": "OK", "battery": 37, "metric": 187.14}
+{"ts": "2025-08-12T08:27:08Z", "device_id": "dev-3", "status": "OK", "battery": 31, "metric": 126.35}
+{"ts": "2025-08-12T08:27:08Z", "device_id": "dev-2", "status": "OK", "battery": 52, "metric": 5.83}
+{"ts": "2025-08-12T08:27:10Z", "device_id": "dev-3", "status": "OK", "battery": 90, "metric": 58.18}
+{"ts": "2025-08-12T08:27:12Z", "device_id": "dev-1", "status": "OK", "battery": 90, "metric": 43.01}
+{"ts": "2025-08-12T08:27:14Z", "device_id": "dev-2", "status": "OK", "battery": 79, "metric": 172.29}
+{"ts": "2025-08-12T08:27:15Z", "device_id": "dev-1", "status": "OK", "battery": 82, "metric": 105.41}
+{"ts": "2025-08-12T08:27:15Z", "device_id": "dev-3", "status": "OK", "battery": 99, "metric": 31.74}
+{"ts": "2025-08-12T08:27:17Z", "device_id": "dev-2", "status": "OK", "battery": 44, "metric": 184.75}
+{"ts": "2025-08-12T08:27:17Z", "device_id": "dev-1", "status": "OK", "battery": 83, "metric": 137.64}
+{"ts": "2025-08-12T08:27:18Z", "device_id": "dev-3", "status": "ERROR", "reason": "low-battery"}
+{"ts": "2025-08-12T08:27:19Z", "device_id": "dev-2", "status": "OK", "battery": 48, "metric": 175.53}
+{"ts": "2025-08-12T08:27:20Z", "device_id": "dev-3", "status": "OK", "battery": 75, "metric": 178.56}
+{"ts": "2025-08-12T08:27:22Z", "device_id": "dev-2", "status": "OK", "battery": 82, "metric": 36.65}
+{"ts": "2025-08-12T08:27:22Z", "device_id": "dev-1", "status": "OK", "battery": 80, "metric": 88.53}
+{"ts": "2025-08-12T08:27:24Z", "device_id": "dev-2", "status": "OK", "battery": 65, "metric": 110.55}
+{"ts": "2025-08-12T08:27:26Z", "device_id": "dev-3", "status": "OK", "battery": 70, "metric": 129.05}
+{"ts": "2025-08-12T08:27:27Z", "device_id": "dev-1", "status": "OK", "battery": 71, "metric": 191.15}
+{"ts": "2025-08-12T08:27:29Z", "device_id": "dev-2", "status": "OK", "battery": 71, "metric": 134.13}
+{"ts": "2025-08-12T08:27:31Z", "device_id": "dev-1", "status": "ERROR", "reason": "sensor-fault"}
+{"ts": "2025-08-12T08:27:31Z", "device_id": "dev-3", "status": "OK", "battery": 32, "metric": 24.72}
+{"ts": "2025-08-12T08:27:33Z", "device_id": "dev-1", "status": "OK", "battery": 100, "metric": 193.46}
+{"ts": "2025-08-12T08:27:34Z", "device_id": "dev-2", "status": "OK", "battery": 66, "metric": 83.94}
+{"ts": "2025-08-12T08:27:36Z", "device_id": "dev-3", "status": "OK", "battery": 33, "metric": 86.15}
+{"ts": "2025-08-12T08:27:38Z", "device_id": "dev-1", "status": "OK", "battery": 59, "metric": 14.72}
+{"ts": "2025-08-12T08:27:40Z", "device_id": "dev-2", "status": "OK", "battery": 42, "metric": 103.01}
+{"ts": "2025-08-12T08:27:41Z", "device_id": "dev-3", "status": "OK", "battery": 89, "metric": 95.09}
+{"ts": "2025-08-12T08:27:43Z", "device_id": "dev-2", "status": "ERROR", "reason": "low-battery"}
+{"ts": "2025-08-12T08:27:43Z", "device_id": "dev-1", "status": "OK", "battery": 54, "metric": 186.73}
+{"ts": "2025-08-12T08:27:45Z", "device_id": "dev-2", "status": "OK", "battery": 75, "metric": 169.12}
+{"ts": "2025-08-12T08:27:46Z", "device_id": "dev-1", "status": "ERROR", "reason": "sensor-fault"}
+{"ts": "2025-08-12T08:27:46Z", "device_id": "dev-3", "status": "OK", "battery": 66, "metric": 119.21}
+{"ts": "2025-08-12T08:27:48Z", "device_id": "dev-1", "status": "OK", "battery": 92, "metric": 172.37}
+{"ts": "2025-08-12T08:27:50Z", "device_id": "dev-3", "status": "OK", "battery": 75, "metric": 48.08}
+{"ts": "2025-08-12T08:27:52Z", "device_id": "dev-3", "status": "OK", "battery": 37, "metric": 178.94}

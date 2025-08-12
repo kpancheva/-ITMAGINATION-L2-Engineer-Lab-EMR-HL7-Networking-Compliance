@@ -1,0 +1,1 @@
+2025-08-12T08:15:42Z ALERT dev-1 device-reported-error {"ts": "2025-08-12T08:15:40Z", "device_id": "dev-1", "status": "ERROR", "reason": "low-battery"}
