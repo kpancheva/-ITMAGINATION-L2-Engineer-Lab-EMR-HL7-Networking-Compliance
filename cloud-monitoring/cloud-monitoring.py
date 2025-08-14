@@ -29,7 +29,7 @@ def parse_line(line):
 def scan_last_seen():
     """
     Parse the entire log and return a dict: device_id -> last_seen_timestamp, last_entry
-    (Simple but fine for small logs. For production, use a persisted DB or file offset.)
+    (Simple but fine for small logs. For production, we use a persisted DB or file offset.)
     """
     last = {}
     if not LOG_FILE.exists():
