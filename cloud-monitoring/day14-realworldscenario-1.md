@@ -1,6 +1,7 @@
 # Day 14: EPIC HL7 Interface Failure - Dialysis Data Rejection
 
 ## 🚨 Incident Summary
+
 | Incident Detail | Value |
 |-----------------|-------|
 | **Error Message** | `MSH segment invalid` |
@@ -11,6 +12,7 @@
 | **Resolution Time** | 47 minutes |
 
 ## 🔍 Root Cause Analysis
+
 ```mermaid
 graph TD
     A[EPIC Rejection] --> B[MSH Segment Analysis]
@@ -110,4 +112,3 @@ Tools Mastered:
 
 bash
 grep, tail, python3, cron, EPIC Hyperspace
-
