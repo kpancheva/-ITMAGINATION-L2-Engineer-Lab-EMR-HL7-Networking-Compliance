@@ -11,17 +11,18 @@
 | **First Detected** | 2024-02-07 14:30 EST |
 | **Resolution Time** | 47 minutes |
 
-## 🔍 Root Cause Analysis
+## Root Cause Analysis
 
 ```mermaid
 graph TD
-    A[EPIC Rejection] --> B[MSH Segment Analysis]
-    B --> C{Missing Backslash?}
-    C -->|Yes| D[Update Device Config]
-    C -->|No| E[Check PID Format]
-    E --> F{^^^EPIC^MRN?}
-    F -->|No| G[Map to EPIC MRN]
-    F -->|Yes| H[Verify OBR/OBX]
+    A[EPIC Rejection] --> B[MSH Check]
+    B --> C{Valid Format?}
+    C -->|No| D[Fix Delimiters]
+    C -->|Yes| E[Check PID]
+    E --> F{Correct MRN?}
+    F -->|No| G[Update PID]
+    F -->|Yes| H[Verify OBX]
+
 
     🛠️ Troubleshooting Steps
 1. Initial Triage (Terminal Commands)
@@ -34,9 +35,9 @@ tail -n 20 /var/log/dialysis/hl7.log | grep --color -E "MSH\|^~\\&|MSH\|^~&"
 
 # Actual error found:
 # MSH|^~&|DialysisWest|A1B2C3|EPIC|EPICADT|...  # Missing backslash
-2. Message Validation Script
-Created validate_hl7.py:
 
+
+2. Message Validation Script
 python
 import re
 
@@ -56,6 +57,9 @@ def validate(message):
         errors.append("Missing observation results")
     
     return errors
+
+
+3. Clinical Safety Verification
 3. Clinical Safety Verification
 python
 def check_ktv(hl7_msg):
@@ -65,6 +69,7 @@ def check_ktv(hl7_msg):
             role="Charge Nurse",
             alert=f"Critical: Kt/V {ktv.group(1)} below threshold"
         )
+
 📝 Permanent Corrections
 Device Configuration Update
 Before:
@@ -80,8 +85,6 @@ PID|||{id}^^^EPIC^MRN...
 OBR|||1234^Dialysis Treatment^L
 OBX||NM|KtV^Dialysis Adequacy||{ktv}...
 New Monitoring Automation
-Added to cron:
-
 bash
 # Daily validation check
 0 7 * * * /usr/bin/python3 /scripts/validate_hl7.py /var/log/dialysis/hl7.log
