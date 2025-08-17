@@ -6,7 +6,7 @@
 
 *EPIC is rejecting dialysis treatment results with error: **`MSH segment invalid`**."*
 
-First,  *I’d verify the message structure matches EPIC’s HL7 2.3 requirements. Common issues are missing delimiters or incorrect sending application fields.*
+First,  *First,  I’d verify the message structure matches EPIC’s HL7 2.3 requirements. Common issues are missing delimiters or incorrect sending application fields.*
 
 In GitBash i can do the following check:
 
@@ -14,14 +14,14 @@ Bash
 
 **tail -n 20 dialysis_alerts.log | grep "MSH|^~\\&"**
 
-why this command? - it helps inspect the most recent HL7 messages in my log file to verify proper message structure, specifically checking for valid MSH segments (the header segment that's required in every HL7 message).
+Why this command? - it helps inspect the most recent HL7 messages in my log file to verify proper message structure, specifically checking for valid MSH segments (the header segment that's required in every HL7 message).
 
 **Detailed Explanation:**
 
 1. **`tail -n 20 dialysis_alerts.log`**
     - **`tail`**: Shows the last part of a file
     - **`n 20`**: Displays the last 20 lines
-    - This gives you the most recent activity from your log file
+    - This gives me the most recent activity from the log file
 2. **`|`** (pipe)
     - Takes the output from the first command and feeds it to the second command
 3. **`grep "MSH|^~\\&"`**
@@ -35,7 +35,7 @@ why this command? - it helps inspect the most recent HL7 messages in my log file
 - Corrupt delimiters (**`^~\&`** defines field separator, component separator, etc.)
 - Truncated messages
 
-**Example Output You Might See:**
+**Example Output:**
 
 text
 
@@ -44,21 +44,11 @@ MSH|^~\&|DialysisClinic|A1B2C3|EPIC|EPICADT|202402061200||ORU^R01|12345|P|2.3
 MSH|^~\&|DialysisClinic|A1B2C3|EPIC|EPICADT|202402061201||ORU^R01|12346|P|2.3
 ```
 
-**What You'd Do Next:**
+**What's Next?:**
 
 - If output shows proper MSH segments → Problem is elsewhere
 - If no output → Messages are missing critical headers
 - If malformed → Check device HL7 configuration
-
-In a real healthcare environment, you'd:
-
-1. Add timestamp checking: **`grep -B2 -A5 "MSH|^~\\&"`** to see context
-2. Redirect to a file for analysis: **`grep "MSH|^~\\&" dialysis_alerts.log > mshtest.txt`**
-3. Use HL7 validation tools for deeper analysis
-
-When asked about troubleshooting:
-
-- I adapt to the environment—whether it's using Python scripts for deep validation, Notepad++ for quick checks, or EPIC's built-in tools when available. The key is systematically verifying: 1) Message structure, 2) Data completeness, and 3) Interface configurations
 
 ### **Troubleshooting HL7 Messages**
 
@@ -138,7 +128,7 @@ When asked about troubleshooting:
 
 **What to do**:
 
-- If you see **`AE`**/**`AR`**, check EPIC’s error message for clues (e.g., **`Invalid PID`**).
+- If I see **`AE`**/**`AR`**, I'd check EPIC’s error message for clues (e.g., **`Invalid PID`**).
 
 ---
 
@@ -147,6 +137,7 @@ When asked about troubleshooting:
 1. **Notepad/TextEdit**:
     - Open your log file → Search (**`Ctrl+F`**) for **`MSH|^~\&`**.
     - Check if every message starts with this.
+
 2. **Basic Python Checker** (Save as **`check_hl7.py`**):
     
     python
@@ -198,11 +189,6 @@ When asked about troubleshooting:
 
 **Next time you see an error**:
 
-- **Think like a chef**:
-    
-    *"Did I forget an ingredient (segment)? Did I write the recipe (message) correctly?"*
-    
-
 ---
 
 ### **Troubleshooting Flowchart**
@@ -221,7 +207,7 @@ PID|||456^^^HOSP^MRN...     # Wrong ID format
 OBR|||Dialysis             # Missing procedure code
 ```
 
-### **My 3-Step HL7 Fix (Like a Recipe)**
+### **My 3-Step HL7 Fix**
 
 1. **Fix the Header (MSH)**
     - ❌ Broken: **`MSH|^~&|...`** *(Missing **`\`** after **`~`**)*
@@ -250,7 +236,7 @@ OBR|||Dialysis             # Missing procedure code
 
 **If you're using your Python simulator**:
 
-1. **For MSH/PID**: Update your message template:
+1. **For MSH/PID**: Update the message template:
     
     python
     
@@ -306,7 +292,7 @@ OBX||NM|KtV^Dialysis Adequacy||1.75||1.2-2.0||||F
 
 ---
 
-### **Why This Matters**
+### **Why This Matters?**
 
 - **EPIC will reject** messages with these errors silently.
 - **Clinical risk**: Missing **`OBX`** means no treatment data is recorded!
