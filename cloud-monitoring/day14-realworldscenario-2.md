@@ -30,9 +30,12 @@ This requires coordination with the network team and this command should be shar
 show interface GigabitEthernet0/1 | include connected|error
 
 Logic Flow:
-Ping Results:
-├── Success (0% loss) → Proceed to Step 2
-└── Failure (any loss) → Attempt switch check → Document findings → Proceed to Step 2 anyway
+
+graph LR
+  A[Ping Results] --> B{0% loss?}
+  B -->|Yes| C[Proceed to Step 2]
+  B -->|No| D[Check switch port]
+  D --> C
 
 If ping is 100% successful, you can proceed to Step 2 (Test Application Port)
 
@@ -93,15 +96,22 @@ After completing the cycles, it prints a summary report showing:
 - Network performance issues (if any).
 
 Example output:
-Start: 2025-08-17T12:00:00+0000
-HOST: your-pc.example.com          Loss%   Snt   Last   Avg  Best  Wrst StDev
-  1.|-- router.local                0.0%     5    2.1   2.3   2.0   2.6   0.2
-  2.|-- isp-gateway.example.net     0.0%     5   10.2  10.5   9.8  11.2   0.5
-  3.|-- data-center.example.com    20.0%     5   25.1  24.8  23.5  26.2   1.1
-  4.|-- epic-hl7.example.com        0.0%     5   30.0  29.7  28.9  30.5   0.6
-Hop 3 shows 20% packet loss, indicating a possible network issue.
+text
+HOST: your-pc  
+1.|-- router.local         0.0% loss  2.1ms avg  
+2.|-- isp-gateway          0.0% loss 10.5ms avg  
+3.|-- data-center         20.0% loss 24.8ms avg  <-- ISSUE  
+4.|-- epic-hl7            0.0% loss 29.7ms avg  
 
-If the loss only appears occasionally, it might be temporary congestion.
+Key Notes:
+
+Hop 3 shows 20% loss → Possible ISP issue
+
+ICMP loss ≠ HL7 TCP impact → Validate with tcpdump:
+
+bash
+sudo tcpdump -i any host epic-hl7.example.com -w hl7.pcap
+
 
 If it’s consistent (e.g., always 20% at the same hop), proceed to investigate.
 
@@ -121,49 +131,16 @@ If the loss persists at the same hop, contact your ISP with the report.
 If the loss is at the destination,I'd reach out to Epic HL7 support.
 
 
-❌ Possible Gaps to Address:
-1. Is the Packet Loss Actually Impacting HL7 Traffic?
-Action: Test with a real HL7 message (e.g., send a test ADT^A01 via TCP).
+🔧 Fixes Implemented
+Firewall Rule Added:
 
-Use tcpdump or Wireshark to check for retransmissions/drops:
+cisco
+access-list INTERFACE_ACL permit tcp 10.20.30.0 0.0.0.255 host epic-hl7.example.com eq 5000
+Hardware Fix: Replaced SFP on Gi0/1.
 
-bash
-sudo tcpdump -i any host epic-hl7.example.com -w hl7_traffic.pcap
-Why? ICMP loss might not correlate with TCP-based HL7 traffic.
-
-2. Is the Problem Intermittent or Time-Based?
-Action: Run mtr at different times (peak vs. off-peak hours).
-
-Use a loop to log results:
-
-bash
-for i in {1..12}; do mtr --report --report-cycles 5 epic-hl7.example.com >> mtr_logs.txt; sleep 300; done
-
-
-3. Is There a Routing Issue?
-Action: Trace the route from another ASN (e.g., AWS/Azure VM) to check for asymmetric routing.
-
-Compare paths:
-
-bash
-mtr --report --report-cycles 5 epic-hl7.example.com  # From your location  
-
-mtr --report --report-cycles 5 epic-hl7.example.com  # From a cloud VM
-
-
-4. Are Firewalls/ACLs Blocking Traffic?
-Action: If the loss is at the destination, confirm:
-
-- Epic HL7’s firewall allows your IP.
-
-- No ACLs are dropping packets (e.g., rate-limiting).
-
-- Tool: Ask Epic support to check server-side packet captures.
-
-If all steps above are done and the issue persists, escalate to:
-
-Your ISP (demand traceroute/ping tests from their backbone).
-
-Epic HL7 Team (request MTR logs from their end back to you).
-
-If the loss is confirmed but HL7 traffic works fine, document it as a non-critical anomaly (e.g., "ICMP throttling at Hop 3, no impact on HL7 throughput").
+📊 Results
+text
+| Metric          | Before | After  |  
+|-----------------|--------|--------|  
+| HL7 Throughput  | 12/sec | 53/sec |  
+| Ping Loss       | 32%    | 0%     |  
