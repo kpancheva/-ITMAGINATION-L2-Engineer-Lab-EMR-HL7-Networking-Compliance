@@ -191,11 +191,7 @@ MSH|^~\&|DialysisClinic|A1B2C3|EPIC|EPICADT|202402061201||ORU^R01|12346|P|2.3
 
 ---
 
-### **Troubleshooting Flowchart**
-
-![image.png](attachment:824319e7-6e7a-49e1-b842-44ba22c048e1:image.png)
-
-Practice:
+### **Troubleshooting Practice**
 
 Here’s one to fix:
 
