@@ -1,7 +1,5 @@
 ### **Day 14 - "EMR Support Specialist Simulation"**
 
-**Goal**: Demonstrate troubleshooting skills while hitting all your target qualifications.
-
 **Problem**
 
 *EPIC is rejecting dialysis treatment results with error: **`MSH segment invalid`**."*
